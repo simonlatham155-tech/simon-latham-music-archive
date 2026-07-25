@@ -7,13 +7,21 @@ year: 1996
 tags: [Soundsation, Faded-Dream, Future-Music, progressive-house, production, 1996]
 sortKey: 413
 createdAt: "2026-07-15T00:00:00.000Z"
-updatedAt: "2026-07-15T00:00:00.000Z"
+updatedAt: "2026-07-26T00:00:00.000+02:00"
 ---
 
 ## Release
 
 - **Format**: Future Music Magazine cover CD, June 1996
 - **Genre**: Progressive house
+
+## Artist Story — From PolyGram to Barton-on-Sea
+
+**Evidence status: Firsthand recollection by Simon Latham.**
+
+Simon recalls that the vocal for *Faded Dream* was recorded in a basement studio at **PolyGram Publishing in London**. The later club-oriented production was developed in **Pete Lunn’s bedroom in Barton-on-Sea**.
+
+The account documents the track’s movement between a major-publisher studio environment and the bedroom-production setting used for Soundsation’s club work.
 
 ## What It Was
 

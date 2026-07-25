@@ -6,7 +6,7 @@ category: "Venue / Event"
 tags: [Bournemouth, Zoo, The-Cage, Opera-House, The-Palace, Berlins, John-Langford, Gaz-White, handbag-house, progressive-house, Soundsation]
 sortKey: 515
 createdAt: "2026-07-15T00:00:00.000Z"
-updatedAt: "2026-07-15T00:00:00.000Z"
+updatedAt: "2026-07-26T00:00:00.000+02:00"
 ---
 
 ## The Scene
@@ -42,19 +42,21 @@ These were the DJs who gave Simon and Pete access to the progressive sound on re
 
 *[Further detail to be added — specific nights, which venues carried which sounds, any specific memories of big DJ visits]*
 
-## Dave Seaman at the Opera House — Watching from the Balcony
+## Artist Story — Dave Seaman at the Opera House
+
+**Evidence status: Firsthand recollection by Simon Latham.**
 
 Simon Latham was in the Opera House, around 1997, when Dave Seaman played *Do You Feel It?* — the Stress Records release Seaman's own label had put out. Simon and Pete watched from the balcony first, seeing the crowd respond to the record from above, before going down to the dancefloor.
 
 The image is precise: the balcony view, the crowd below, your own record playing, the decision to go down. Seaman had brought the progressive house circuit to the town where Soundsation had formed. The record that connected them was being played in the room where Simon had spent years going out as a clubber.
 
-## Sasha at the Opera House, 1996
+## Artist Story — A Reported Sasha Play at the Opera House
 
-In 1996 a friend of Simon Latham's attended a Sasha set at the Opera House and reported back that Sasha had played *Do You Feel It?* — Soundsation's Stress Records release — during the set. Simon's first response was to assume his friend had got it wrong.
+**Evidence status: Report relayed to Simon by a friend; not independently confirmed for this venue.**
 
-He hadn't. Sasha was playing the record at Cream in Liverpool that same year and it had been circulating as a rare pressing through the DJ network before the official release. Sasha playing it at the Opera House in Bournemouth — the venue in the town where Simon had spent his weekends as a clubber learning what he wanted to make — was entirely consistent with how the record was travelling.
+In 1996, a friend told Simon that Sasha had played *Do You Feel It?* at the Opera House in Bournemouth. Simon initially assumed his friend had mistaken the track.
 
-The moment captures something specific about how underground records moved through the DJ circuit. They could reach your own town, your own venue, without you knowing. And when someone told you, your first instinct might be to doubt them.
+Sasha’s play of the record at Cream, Liverpool on 15 June 1996 is independently documented. That confirmed support makes the Bournemouth report plausible, but it does not verify the specific Opera House appearance. The archive therefore retains this only as a reported artist story.
 
 ## Why This Matters to the Soundsation Story
 

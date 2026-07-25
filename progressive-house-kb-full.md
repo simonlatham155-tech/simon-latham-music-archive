@@ -1,6 +1,6 @@
 # Progressive House & the Birth of Trance — Personal Knowledge Base
 
-This document contains 47 articles organised as a personal knowledge base about the origins of progressive house music and how it evolved into modern trance. The content reflects personal experiences and deep familiarity with the scene.
+This document contains 49 articles organised as a personal knowledge base about the origins of progressive house music and how it evolved into modern trance. The content reflects personal experiences and deep familiarity with the scene.
 
 ---
 
@@ -64,8 +64,11 @@ By 1995–96 it became hard to describe Sasha & Digweed, Paul van Dyk, and Rober
 ---
 
 ### 1996 — The Blueprint Year (1996)
+
 *Progressive house at its fullest expression*
-Tags: 1996, blueprint, progressive-house, Renaissance, Sasha, Digweed, Northern-Exposure, Cream, Stress-Records, Pete-Tong, Radio-1
+
+**Category:** Era  
+**Tags:** 1996, blueprint, progressive-house, Renaissance, Sasha, Digweed, Northern-Exposure, Cream, Stress-Records, Pete-Tong, Radio-1
 
 ## Not the Beginning — the Blueprint
 
@@ -83,7 +86,7 @@ Sasha's residency at Cream in Liverpool in 1996 was one of the central events of
 
 ## The Digweed Moment
 
-On Pete Tong's BBC Radio 1 Essential Selection Best of 1996 (27 December 1996), John Digweed was asked about his year. He mentioned touring America with Northern Exposure — a record that had defined progressive house internationally, that had taken Sasha and Digweed into American clubs and given the genre a global profile. And then he named his favourite record of the year.
+On Pete Tong's BBC Radio 1 Essential Selection Best of 1996 (27 December 1996), John Digweed was asked about his year. He mentioned touring around America while promoting the Northern Exposure compilation — a record that had defined progressive house internationally, that had taken Sasha and Digweed into American clubs and given the genre a global profile. And then he named his favourite record of the year.
 
 It was not a track from Northern Exposure. It was not something from the mainstream of the scene. It was *Do You Feel It?* by Soundsation — a Stress Records release, an underground progressive house record, something that had reached him through the DJ network before any wide commercial release.
 
@@ -102,6 +105,11 @@ That exchange — Digweed's exclusivity, Tong's acknowledgement of it — is a d
 The blueprint year is the year before things start to change. By 1997–98 the scene would be fragmenting — trance pulling one way, commercial pressure pulling another, the purity of the early sound becoming harder to maintain as the genre got bigger.
 
 1996 is the year when all the values of progressive house — the journey, the underground circulation, the DJ as curator, the compilation as document — were operating at full strength and in alignment. It is the year the thing was most completely itself.
+
+
+## Further reading
+
+- [Northern Exposure — The Mix That Changed Everything](https://www.decodedmagazine.com/northern-exposure-the-mix-that-changed-everything/) — Decoded Magazine.
 
 ---
 
@@ -196,8 +204,11 @@ Paradoxically, Goa trance and progressive house influenced each other despite th
 ---
 
 ### Northern Exposure (1996)
+
 *Sasha & Digweed, 1996 — the listening album that linked back to everything*
-Tags: Sasha, Digweed, Northern-Exposure, listening-album, progressive-house, 1996, compilation, America
+
+**Category:** Concept  
+**Tags:** Sasha, Digweed, Northern-Exposure, listening-album, progressive-house, 1996, compilation, America
 
 ## What It Was
 
@@ -213,7 +224,7 @@ This is what it means that it "linked to all the records that had been there." T
 
 ## The America Tour
 
-Digweed specifically mentioned touring America with Northern Exposure in his BBC Radio 1 Best of 1996 introduction before naming *Do You Feel It?* as his favourite record of the year. The American tour is significant: it took progressive house into rooms and to audiences it had not previously reached. Northern Exposure was the calling card — the listening record that explained what Sasha and Digweed were doing before a club audience had experienced it.
+Digweed specifically mentioned touring around America while promoting the Northern Exposure compilation in his BBC Radio 1 Best of 1996 introduction before naming *Do You Feel It?* as his favourite record of the year. The American tour is significant: it took progressive house into rooms and to audiences it had not previously reached. Northern Exposure was the calling card — the listening record that explained what Sasha and Digweed were doing before a club audience had experienced it.
 
 ## Why Digweed's Choice Matters in This Context
 
@@ -225,7 +236,7 @@ Northern Exposure had just demonstrated that the progressive house aesthetic cou
 
 ## The Bedrock Continuation
 
-Belgian producer Pole Folder's first releases were on Bedrock — Digweed's label — and he cited Northern Exposure specifically as a touchstone in a 2014 Decoded Magazine interview. When Pole Folder later collaborated with Simon Latham on the Human EP (Electronical Reeds, 2014), GusGus — who appeared on Northern Exposure — remixed the track because Simon is a personal friend of the group. The document that Digweed was touring America with in 1996, the same year he named *Do You Feel It?* as his favourite record, is explicitly in the chain of connections that produced a 2014 collaboration between the person who made that record and a Belgian producer whose career began on Digweed's own label.
+Belgian producer Pole Folder's first releases were on Bedrock — Digweed's label — and he cited Northern Exposure specifically as a touchstone in a 2014 Decoded Magazine interview. When Pole Folder later collaborated with Simon Latham on the Human EP (Electronical Reeds, 2014), GusGus — who appeared on Northern Exposure — remixed the track because Simon is a personal friend of the group. The compilation Digweed was touring around America to promote in 1996, the same year he named *Do You Feel It?* as his favourite record, is explicitly in the chain of connections that produced a 2014 collaboration between the person who made that record and a Belgian producer whose career began on Digweed's own label.
 
 ## GusGus
 
@@ -238,6 +249,11 @@ The GusGus connection persists beyond Northern Exposure. They later remixed a tr
 Northern Exposure established a template that would be used throughout the late 1990s: the DJ mix as home listening record, designed for headphones, sequenced for emotional arc rather than dancefloor function. Global Underground, Balance, Bedrock compilations — all of these owe something to what Northern Exposure demonstrated was possible.
 
 The irony is that the format proved the music could exist outside the club — but the DJs who made those records most successfully remained most invested in the underground circuit that had produced them.
+
+
+## Further reading
+
+- [Northern Exposure — The Mix That Changed Everything](https://www.decodedmagazine.com/northern-exposure-the-mix-that-changed-everything/) — Decoded Magazine.
 
 ---
 
@@ -728,9 +744,12 @@ Van Dyk is important to this story not because he represents the same thing as t
 
 ---
 
-### Soundsation (1994–1999)
+### Soundsation
+
 *UK Electronic Music Project, 1994–1999*
-Tags: Soundsation, UK, progressive-house, trance, Stress-Records, FFRR, SOS-Recordings, Simon-Latham, Pete-Lunn, Martyn-The-Hat
+
+**Category:** Artist  
+**Tags:** Soundsation, UK, progressive-house, trance, Stress-Records, FFRR, SOS-Recordings, Simon-Latham, Pete-Lunn, Martyn-The-Hat, Northern-Exposure, GusGus, Iceland
 
 ## What It Was
 
@@ -738,7 +757,9 @@ Soundsation was a UK electronic music project active between 1994 and 1999. Memb
 
 The project began in the white-label sampling era and moved through progressive house before documenting a clear shift toward melodic/uplifting trance by the late 1990s. Its catalogue charts the transition from the inside — not as observers of the genre shift but as participants in it.
 
-## Before Soundsation — Something Wild (1990)
+## Artist Story — Before Soundsation: Something Wild (1990)
+
+**Evidence status: Simon Latham’s firsthand account, except where linked releases or chart records independently verify individual details.**
 
 Simon Latham's musical history before Soundsation runs through two earlier projects, both pop-oriented and distinct from anything that followed.
 
@@ -754,7 +775,9 @@ James Wiltshire produced two of their tracks. Wiltshire would go on to become on
 
 The distance between Something Wild in 1990 and *Do You Feel It?* on Stress Records in 1996 is the distance between Pet Shop Boys and John Digweed. The connection that bridged it was Wiltshire — the one constant across both moments. When the Jackpot vs. Stress decision came four years later, Simon's trust in him was based on having made music together, not on anything the scene had told him.
 
-## How It Started — A Lenny Kravitz Sample and a Move to Bournemouth
+## Artist Story — How Soundsation Started
+
+**Evidence status: Simon Latham’s firsthand account of the project’s formation.**
 
 Soundsation did not begin as a planned project. It started with a one-off idea: to make a record using a Lenny Kravitz sample. Pete and Warren took the lead on that record; they guessed it would be huge. Simon was writing with Pete on more pop-sounding tracks separately, and all of this mixed together organically — the way most bands actually start rather than how they later describe it.
 
@@ -766,11 +789,35 @@ Warren Clarke was a producer involved in the early period. His sound was rooted 
 
 The Lenny Kravitz sample origin explains the Peace & Joy pattern too. The early Soundsation records were built on samples — uncleared, pressed for club use, pulled when the commercial reality caught up. That was the method before the method had a name.
 
+## Artist Story — Working Roles
+
+**Evidence status: Simon Latham’s account of the group’s practical division of work.**
+
+- **Pete Lunn** — production engineering and technical studio work
+- **Simon Latham** — songwriting, vocals and trackmaking
+- **Martyn “The Hat”** — local DJ and club-floor perspective
+- **Warren Clarke** — early production role; departed in 1995
+
+These descriptions record working roles rather than attempting to replace the credits printed on individual releases.
+
 ## The White-Label Years
 
 Early work circulated as white labels across UK clubs before commercial release. *Peace & Joy* (1994) was pressed as Smokin' Vinyl SMK 001 and circulated widely before being picked up by FFRR / London Records. The early pressings contained an uncleared vocal sample characteristic of the era — club audiences noticed the absence of the sample on the retail version, confirming their prior exposure to the white label.
 
 This pattern — underground circulation first, commercial release second — was standard for the period and reflects how progressive house records actually moved through the DJ network.
+
+## The 1990s Record-Development Workflow
+
+Soundsation’s releases moved through a period-specific sequence:
+
+1. Hardware-based studio production
+2. Acetate, dubplate or test pressing
+3. White-label circulation to DJs
+4. Club play and audience testing
+5. Magazine, radio and DJ feedback
+6. Commercial licensing or wider release where possible
+
+This workflow explains why an early DJ playlist, radio recording or white-label pressing is historically significant. In the mid-1990s, those artefacts document how a record travelled before digital distribution, streaming statistics or searchable online metadata existed.
 
 ## Stress Records — The Label Decision
 
@@ -791,6 +838,10 @@ On a subsequent broadcast (7 February 1997), Tong referenced the track's prior u
 > "I do believe that was John Digweed's big tune of '96 actually — Soundsation 'Do You Feel It?'. Mainly because he was the only one that had it, but we can all have it now."
 
 This exchange is a document of how progressive house records spread — DJ to DJ before any official release, with exclusivity as part of the value.
+
+### Northern Exposure Context
+
+The link between Soundsation and *Northern Exposure* is documented in Digweed’s own introduction: he spoke about touring around America while promoting the *Northern Exposure* compilation, then named *Do You Feel It?* among his favourite records of 1996. The track was not on a *Northern Exposure* compilation; the significance is that Digweed placed both within the same account of his year.
 
 ## Sasha and Cream
 
@@ -818,6 +869,14 @@ Simon Latham relocated to Iceland because of his Icelandic wife, **Sylvi** — a
 
 Once settled, he founded Airport Route Recordings — the successor label to SOS Recordings, which he had run with Pete Lunn during the Soundsation years. The Icelandic music connections that followed came from being a resident: GusGus, Birgitta Haukdal, and giving early platform to Kid Mistik (Bjarki) and Johann Stone.
 
+### Artist Story — From Northern Exposure 2 to GusGus
+
+**Evidence status: Simon Latham’s firsthand chronology, except for the separately sourced 2014 remix account.**
+
+Simon recalls *Northern Exposure 2* as part of the chain that led to his 1997 meeting with GusGus in Reykjavík. Renaissance was also in Reykjavík with Anthony Pappa during that period. Simon later moved to Iceland, and in 2014 GusGus remixed Pole Folder & Simon Latham’s *U.S.E.* Pole Folder’s published *Human EP* interview states that Simon’s friendship with GusGus led to the remix.
+
+This creates a traceable career arc across progressive-house culture, Reykjavík and the later collaboration without claiming that *Northern Exposure* formally released or commissioned Soundsation.
+
 ## SOS Recordings and Pete Lunn
 
 SOS Recordings was co-founded and co-run by Simon Latham and Pete Lunn. It distributed via Amato (1994–1997) and MOS Music (1997–1999), operating as a vinyl-focused independent imprint within the UK club distribution network. Airport Route Recordings continued the same independent approach in a different country and a different decade.
@@ -826,9 +885,27 @@ SOS Recordings was co-founded and co-run by Simon Latham and Pete Lunn. It distr
 
 The studio was Pete Lunn's bedroom in a house on a clifftop near Christchurch — the town between Bournemouth and the Hampshire border on the south coast of England.
 
-Hardware: Atari computers running Cubase, Roland synthesisers, Akai sampling, rack effects processors, Behringer Eurodesk mixer, final recording to DAT. No software DAWs, no plugins — everything in the room, in a bedroom on a clifftop.
+**Production hardware (from soundsation.xyz archive):**
+- Atari 1040 running Cubase 3
+- Behringer Eurodesk 24:8
+- Akai S3000XL (sampler)
+- Roland JV-1080
+- Emu Vintage Keys
+- Yamaha FB-01
+- Yamaha YS200
+- Roland Juno 2
+- Roland TR-626 (drum machine)
 
-*Do You Feel It?*, *Peace & Joy*, *Faded Dream*, *Get Up '95*, *New Direction* — all of it made there. The record that Digweed named his favourite of 1996 on Radio 1, the record that reached the Renaissance compilation, the record that Sasha played at Cream: made in a bedroom on a clifftop near Christchurch.
+**Processing & mastering:**
+- Akai Compressor
+- Akai Exciter
+- ART LTX Effects Unit
+- Yamaha R100 Reverb
+- Boss SE-70
+- Yamaha SPX990
+- Mastered straight to Aiwa DAT
+
+No software DAWs, no plugins — everything in the room. *Do You Feel It?*, *Peace & Joy*, *Faded Dream*, *Get Up '95*, *New Direction* — all of it made on this hardware, in a bedroom on a clifftop near Christchurch. The record that Digweed named his favourite of 1996 on Radio 1, the record that reached the Renaissance compilation, the record that Sasha played at Cream.
 
 ---
 
@@ -1223,9 +1300,12 @@ Hearing *Not Forgotten* alongside records being made at the same time shows exac
 
 ---
 
-### Soundsation — Peace & Joy (1994)
+### Soundsation — Peace & Joy
+
 *1994, Smokin' Vinyl / FFRR London Records*
-Tags: Soundsation, FFRR, white-label, Pete-Tong, Jeremy-Healy, Essential-Mix, progressive-house, UK-chart
+
+**Category:** Track  
+**Tags:** Soundsation, FFRR, white-label, Pete-Tong, Jeremy-Healy, Essential-Mix, progressive-house, UK-chart
 
 ## Release
 
@@ -1250,9 +1330,13 @@ The record began as a sample of Lenny Kravitz's *Are You Gonna Go My Way* — th
 
 A friend started **Smokin' Vinyl** specifically to cut the record on white label. Smokin' Vinyl was not a pre-existing label that signed Soundsation — it was created for this record, by someone in the circle who wanted to get it out. SMK 001 is Peace & Joy. The catalogue begins here because the label begins here.
 
-## The White Label Story
+## Artist Story — The White-Label Reaction
 
-The early pressings of *Peace & Joy* contained the uncleared Lenny Kravitz sample — standard practice in the white-label era, where records were pressed for club use before any clearance or commercial deal was in place. Club audiences who had heard the white label noticed the sample's absence on the retail version. This pattern of underground-first, commercial-second circulation was how progressive house records actually spread through the DJ network.
+**Evidence status: Firsthand recollection by Simon Latham.**
+
+The early white-label version of *Peace & Joy* contained the uncleared Lenny Kravitz sample. Simon recalls that club audiences who already knew that version noticed when the sample was absent from the later retail release.
+
+The existence and release details of the separate pressings can be documented independently; the remembered audience reaction is retained specifically as artist testimony.
 
 ## The FFRR Connection
 
@@ -1262,9 +1346,11 @@ Being picked up by FFRR (London Records) — Pete Tong's label — was significa
 
 *Peace & Joy* was the record that secured Soundsation a publishing deal. With that deal in place, Simon and Pete Lunn worked toward a further album option — the next stage that would have taken the project from singles into a full album context. The publishing relationship led directly to PolyGram Publishing directing the making of *Faded Dream* with vocalist Darren Brooks in 1996, as part of demonstrating what Soundsation could do at album level.
 
-## Legal Intervention
+## Artist and Label History — Legal Intervention
 
-The uncleared sample led to legal intervention that restricted commercial momentum. Following this release, the project moved away from major-label house pathways toward underground club music — a decision that would lead to the Stress Records period — while the publishing relationship continued in parallel.
+**Evidence status: Artist account pending attachment of contracts or contemporary correspondence.**
+
+Simon recalls that the uncleared sample led to legal intervention and restricted the record’s commercial momentum. The archive treats the legal sequence as artist/label history until the relevant documents are attached.
 
 ---
 
@@ -1292,9 +1378,12 @@ Pete and Martyn later released *USA Turn It Up* and *Disco Remedy* in the same h
 
 ---
 
-### Soundsation — Do You Feel It? (1996)
+### Soundsation — Do You Feel It?
+
 *1996, Stress Records (12STR 88)*
-Tags: Soundsation, Stress-Records, John-Digweed, Pete-Tong, Sasha, Cream, Renaissance, progressive-house, Radio-1
+
+**Category:** Track  
+**Tags:** Soundsation, Stress-Records, John-Digweed, Pete-Tong, Sasha, Cream, Renaissance, Northern-Exposure, progressive-house, Radio-1
 
 ## Release
 
@@ -1307,6 +1396,14 @@ Tags: Soundsation, Stress-Records, John-Digweed, Pete-Tong, Sasha, Cream, Renais
 
 All chart entries filed under "Soundstation" (misspelling) on the Official Charts database — part of the documentation gap that made the career harder to find.
 
+## Artist Story — Making “Do You Feel It?”
+
+**Evidence status: Firsthand recollection by Simon Latham.**
+
+Simon Latham recalls creating the track’s distinctive **high-pitched wobble** by editing a sound on the **Roland JV-1080** while having a few Budweisers. After going clubbing that night, he returned the following morning and completed the arrangement.
+
+This production account is preserved as artist testimony rather than an independently documented technical fact.
+
 ## On the Essential Selection
 
 Simon knew the track had made it onto BBC Radio 1's Essential Selection and was happy about it. He did not personally hear the 27 December 1996 broadcast in which Digweed introduced the track — that specific moment, and what Digweed said, became known later rather than in real time.
@@ -1317,13 +1414,21 @@ What he experienced was the fact of it: the record was on Radio 1's flagship sho
 
 On Pete Tong's BBC Radio 1 Essential Selection Best of 1996 (27 December 1996), John Digweed introduced the track:
 
-> "1996 has been a great year for me… as well as that I've been promoting the Northern Exposure album in America and the UK, which has both been really successful. I think one of my favourite records of this year is a track by Soundsation and it's called Do You Feel It?. Hope you like it, have a good Christmas and a happy new year."
+Digweed first referred to **touring around America while promoting the *Northern Exposure* compilation**, then selected the Soundsation track:
+
+> "I think one of my favourite records of this year is a track by Soundsation and it's called Do You Feel It?. Hope you like it, have a good Christmas and a happy new year."
 
 On a follow-up Essential Selection broadcast (7 February 1997), Pete Tong noted:
 
 > "I do believe that was John Digweed's big tune of '96 actually — Soundsation 'Do You Feel It?'. Mainly because he was the only one that had it, but we can all have it now."
 
 This exchange is a precise document of how progressive house records spread through the DJ network — exclusivity first, circulation later.
+
+### The Precise Northern Exposure Link
+
+The connection between Soundsation and **Northern Exposure** is the wording and context of Digweed’s own 27 December 1996 introduction. In the same message, he described touring around America while promoting the *Northern Exposure* compilation, then selected Soundsation’s *Do You Feel It?* as one of his favourite records of 1996.
+
+This does **not** mean that *Do You Feel It?* appeared on a *Northern Exposure* compilation. It documents the track being championed by Digweed during the same period and in the same broadcast statement as the American *Northern Exposure* tour.
 
 ## Sasha at Cream
 
@@ -1391,6 +1496,20 @@ The man said: it's the radio.
 
 It was BBC Radio 1. The record that had moved through the DJ network as a rare pressing, that Digweed had been the only one with, that Simon had heard Seaman play inside the venue he'd just walked out of — was coming out of a kebab shop on the street because Pete Tong had put it on the radio.
 
+## Contemporary Reactions
+
+From the Airport Route Recordings 2008 reissue notes:
+
+> "In 1996 in the early days of progressive house Soundsation unveiled 'Do You Feel It?' to the world, by the end of the year it was on the bill of nearly all the big name DJs, Sasha, Digweed, Seaman, Tong and many more."
+
+**Royal Sapien** (remixer on the 2008 reissue):
+> "Do You Feel It? was one of the tunes that shaped my evolution toward progressive house. I don't know where I'd be without the Renaissance Mix Collection 4. I'm thrilled to remix it."
+
+**DJ Fang** (progressivehouse.com):
+> "The beautiful wraith vocal and the deep rolled bass provide a touching sentiment. Just a devastating house track. Truly recommended."
+
+The 2008 Airport Route reissue also topped the charts on progressivehouse.com at time of release — the record's reach extending more than a decade after the original.
+
 ## Full Discography of the Track
 
 | Release | Label | Cat No | Year | Notes |
@@ -1411,14 +1530,25 @@ The track moved through at least five distinct release phases from 1996 to the p
 
 ---
 
-### Soundsation — Faded Dream (1996)
+### Soundsation — Faded Dream
+
 *Future Music Magazine, June 1996 cover CD*
-Tags: Soundsation, Faded-Dream, Future-Music, progressive-house, production, 1996
+
+**Category:** Track  
+**Tags:** Soundsation, Faded-Dream, Future-Music, progressive-house, production, 1996
 
 ## Release
 
 - **Format**: Future Music Magazine cover CD, June 1996
 - **Genre**: Progressive house
+
+## Artist Story — From PolyGram to Barton-on-Sea
+
+**Evidence status: Firsthand recollection by Simon Latham.**
+
+Simon recalls that the vocal for *Faded Dream* was recorded in a basement studio at **PolyGram Publishing in London**. The later club-oriented production was developed in **Pete Lunn’s bedroom in Barton-on-Sea**.
+
+The account documents the track’s movement between a major-publisher studio environment and the bedroom-production setting used for Soundsation’s club work.
 
 ## What It Was
 
@@ -1588,15 +1718,31 @@ The trajectory from *New Direction* (SOS Recordings, 1998) — a full lead vocal
 ---
 
 ### Pole Folder & Simon Latham — Human EP (2014)
-*2014, Electronical Reeds — GusGus remix; Hernán Cattáneo support*
-Tags: Simon-Latham, Pole-Folder, GusGus, T-World, Lex-Newton, Superdrums, Human-EP, USE, Electronical-Reeds, Belgium, Kompakt, Hernán-Cattáneo, progressive-house, Data-Transmission
+
+*2014, Electronical Reeds — documented international DJ and specialist-radio support*
+
+**Category:** Track  
+**Tags:** Simon-Latham, Pole-Folder, GusGus, T-World, Lex-Newton, Superdrums, Human-EP, USE, Electronical-Reeds, Belgium, Kompakt, Hernán-Cattáneo, Roger-Sanchez, Sasha, Kiss-FM-Australia, The-Beautiful-Drive, progressive-house, Data-Transmission
 
 ## Release
 
 - **Label**: Electronical Reeds (Belgian label)
 - **Artists**: Pole Folder & Simon Latham
 - **Reviewed**: Data Transmission, 7/10 (Grahame Farmer, June 2014)
-- **International support**: Hernán Cattáneo
+- **Documented support**: Hernán Cattáneo chart placement, Roger Sanchez play, Sasha promotional feedback and repeated Kiss FM Australia play
+
+## Contemporary Editorial Assessment
+
+In its June 2014 Pole Folder interview, **Decoded Magazine** introduced the *Human EP* as a “truly great listen,” described it as emotionally charged and “an EP of some character,” and praised its remixes. This is contemporary editorial assessment, distinct from the factual statements Pole Folder supplied in the interview: [Pole Folder is on top of his game](https://www.decodedmagazine.com/pole-folder/).
+
+## Documented Support and Airplay
+
+- **Hernán Cattáneo** placed *U.S.E.* at **#6** in his June 2014 chart. The surviving primary source is Cattáneo's Facebook note, dated 1 June 2014: [June 2014 Chart](https://www.facebook.com/notes/10164980283310001/).
+- **Sasha**, responding through the 2014 Electronical Reeds promotional campaign, wrote: "GusGus v T-World mix is ace." This is contemporary promotional feedback, not evidence of a public play.
+- **Roger Sanchez** played *The Bitter Memory* during *Sunset Sessions* at Kumharas, Ibiza, broadcast by Ibiza Sonica on 4 September 2014. The playlist identifies the release as Electronical Reeds ER031.
+- **Kiss FM Dance Music Australia repeatedly featured *The Bitter Memory*** across five consecutive weekly Top Ten programme mixes: 28 May, 4 June, 11 June, 18 June and 25 June 2014. The 11 June mix, presented by **The Beautiful Drive**, placed the track first: [Kiss FM Dance Music Australia Top Ten — 11 June 2014](https://kissfm.com.au/kiss-fm-top-10-chart/kiss-fm-dance-music-australia-top-ten-11th-june-2014).
+
+This documents repeated specialist dance-radio exposure for the song. It was not an Australian national sales-chart result.
 
 ## Tracks
 
@@ -1617,15 +1763,15 @@ Tags: Simon-Latham, Pole-Folder, GusGus, T-World, Lex-Newton, Superdrums, Human-
 
 ## How the Collaboration Happened — Pole Folder's Account
 
-From Decoded Magazine (2014):
+From Pole Folder’s June 2014 [Decoded Magazine interview](https://www.decodedmagazine.com/pole-folder/):
 
 > "I originally started some tracks with Simon a year ago after we spoke via email. He liked my work and it was very interesting for me to exchange ideas with him. One of the tracks we were working on became quickly an evident option for the 3 years album of Electronical Reeds."
 
-Simon wrote the lyrics on both tracks. Pole Folder was responsible for music writing and production. *The Bitter Memory* emerged from returning to an earlier track they had started; the shift from planned single to EP came as the project developed.
+Pole Folder directly confirmed that **Simon wrote the lyrics on both tracks**, while Pole Folder was responsible for **music writing and production**. The interview is therefore a primary source for their respective creative roles. *The Bitter Memory* emerged from returning to an earlier track they had started; the shift from planned single to EP came as the project developed.
 
 ## How GusGus Got Involved
 
-From Pole Folder in Decoded Magazine:
+From Pole Folder in the same [Decoded Magazine interview](https://www.decodedmagazine.com/pole-folder/):
 
 > "Simon is a friend of the group. When he said that they were interested to do a remix, it was a dream coming true for me. I've been a big fan of GusGus for ages. It's an honour for me to be on their impressive list of artists they have remixed, such as Björk, Depeche Mode and Moloko."
 
@@ -1639,9 +1785,11 @@ Pole Folder's first releases were on **Bedrock** — John Digweed's label. In th
 
 The thread: Digweed championed *Do You Feel It?* in 1996, the same year Northern Exposure was released. Pole Folder was inspired by Northern Exposure, released on Bedrock, and then collaborated with Simon Latham. Northern Exposure is the document that connects all of these people — Digweed, Pole Folder, and Simon — across nearly two decades.
 
+The source-supported chain is: **Northern Exposure influenced Pole Folder → Pole Folder developed his career through Bedrock → Pole Folder collaborated with Simon Latham → Simon’s friendship with GusGus brought them into the remix package.** The first and final links are Pole Folder’s own published statements.
+
 ## The Hernán Cattáneo Connection
 
-Pole Folder, at the time of the Human EP, had just mixed a compilation for **Sudbeat** — Hernán Cattáneo's own label. This explains Cattáneo's support for the Human EP directly: an existing professional relationship between Pole Folder and Cattáneo's operation.
+Cattáneo's own June 2014 chart is the primary evidence: *U.S.E.* appears at #6. Pole Folder's connection to Cattáneo's Sudbeat label provides relevant professional context, but the chart itself is the confirmed fact.
 
 ## Simon's Own Remix
 
@@ -1758,8 +1906,11 @@ Cream grew to hold multiple rooms and thousands of people per night. This scale 
 ---
 
 ### The Bournemouth Club Scene
+
 *Early 1990s — handbag town with pockets of the new sound*
-Tags: Bournemouth, Zoo, The-Cage, Opera-House, The-Palace, Berlins, John-Langford, Gaz-White, handbag-house, progressive-house, Soundsation
+
+**Category:** Venue / Event  
+**Tags:** Bournemouth, Zoo, The-Cage, Opera-House, The-Palace, Berlins, John-Langford, Gaz-White, handbag-house, progressive-house, Soundsation
 
 ## The Scene
 
@@ -1794,19 +1945,21 @@ These were the DJs who gave Simon and Pete access to the progressive sound on re
 
 *[Further detail to be added — specific nights, which venues carried which sounds, any specific memories of big DJ visits]*
 
-## Dave Seaman at the Opera House — Watching from the Balcony
+## Artist Story — Dave Seaman at the Opera House
+
+**Evidence status: Firsthand recollection by Simon Latham.**
 
 Simon Latham was in the Opera House, around 1997, when Dave Seaman played *Do You Feel It?* — the Stress Records release Seaman's own label had put out. Simon and Pete watched from the balcony first, seeing the crowd respond to the record from above, before going down to the dancefloor.
 
 The image is precise: the balcony view, the crowd below, your own record playing, the decision to go down. Seaman had brought the progressive house circuit to the town where Soundsation had formed. The record that connected them was being played in the room where Simon had spent years going out as a clubber.
 
-## Sasha at the Opera House, 1996
+## Artist Story — A Reported Sasha Play at the Opera House
 
-In 1996 a friend of Simon Latham's attended a Sasha set at the Opera House and reported back that Sasha had played *Do You Feel It?* — Soundsation's Stress Records release — during the set. Simon's first response was to assume his friend had got it wrong.
+**Evidence status: Report relayed to Simon by a friend; not independently confirmed for this venue.**
 
-He hadn't. Sasha was playing the record at Cream in Liverpool that same year and it had been circulating as a rare pressing through the DJ network before the official release. Sasha playing it at the Opera House in Bournemouth — the venue in the town where Simon had spent his weekends as a clubber learning what he wanted to make — was entirely consistent with how the record was travelling.
+In 1996, a friend told Simon that Sasha had played *Do You Feel It?* at the Opera House in Bournemouth. Simon initially assumed his friend had mistaken the track.
 
-The moment captures something specific about how underground records moved through the DJ circuit. They could reach your own town, your own venue, without you knowing. And when someone told you, your first instinct might be to doubt them.
+Sasha’s play of the record at Cream, Liverpool on 15 June 1996 is independently documented. That confirmed support makes the Bournemouth report plausible, but it does not verify the specific Opera House appearance. The archive therefore retains this only as a reported artist story.
 
 ## Why This Matters to the Soundsation Story
 
@@ -1818,51 +1971,48 @@ Knowing what you want to make partly means knowing what's missing from what you'
 
 ## Personal Memorys
 
-### The GusGus Office, Reykjavik, 1997 (1997)
-*The Sasha DAT arrives*
-Tags: GusGus, Biggi, Sasha, The-Light, DAT, Reykjavik, Iceland, 1997, personal-memory, progressive-house, network
+### The GusGus Office, Reykjavik, 1997
 
-## The Moment
+*Artist story — hearing GusGus “Purple (Sasha V The Light)” arrive*
 
-In 1997, Simon Latham was at the GusGus office in Reykjavik. He was there with Biggi — a long-term friend, not a professional acquaintance. While they were together, the DAT of Sasha's remix of *The Light* arrived. They listened to it in the room.
+**Category:** Personal Memory  
+**Tags:** GusGus, Biggi, Sasha, The-Light, Northern-Exposure-2, Renaissance, Anthony-Pappa, Reykjavik, Iceland, 1997, 2014, personal-memory, progressive-house, network
 
-## What This Means
+## Artist Story — The Arrival
 
-Sasha had been playing *Do You Feel It?* — the Soundsation Stress Records release — at Cream in Liverpool in 1996, the same year Digweed named it his record of the year on Radio 1. In 1997, Simon was sitting in an Icelandic office listening to a Sasha remix arrive on DAT, with the people GusGus had placed on Northern Exposure — the album Digweed had been touring America with when he championed that record.
+**Evidence status: Firsthand recollection by Simon Latham.**
 
-These are not parallel events in a large industry. They are the same small network of people, operating in the same moment, audible across different cities and formats.
+Simon recalls being at the GusGus office in Reykjavik in 1997 when a copy of **GusGus — “Purple (Sasha V The Light)”** arrived through the post. He listened to it there with people from the group.
 
-## Biggi and the Long-Term Friendship
+The record was *Purple*, not a separate track by an artist called The Light. “Sasha V The Light” identifies the remix collaboration associated with that version.
 
-Biggi from GusGus is a long-term friend of Simon's — a relationship that predates the Human EP collaboration (2014) by nearly two decades. The GusGus remix of U.S.E came about, as Pole Folder confirmed in Decoded Magazine, because "Simon is a friend of the group." This moment in the Reykjavik office in 1997 is part of what that friendship is made of.
+## Artist Story — Northern Exposure 2 and Reykjavík
 
-## What It Sounded Like
+**Evidence status: Firsthand recollection by Simon Latham; the causal link is artist testimony.**
 
-Simon's memory of hearing the track in the room: a gated vocal — cut rhythmically, processed rather than smooth — and a production that was progressive by the standards of the day but with a clear lean toward trance.
+Simon recalls **Northern Exposure 2** as part of the chain of events that led to him meeting GusGus in Reykjavík in 1997. During the same Reykjavík period, Renaissance was in the city with **Anthony Pappa**. These details place the meeting within the late-1990s progressive-house culture surrounding Sasha, John Digweed and Renaissance, but they are preserved here as Simon’s recollection unless an event listing or other contemporary source is added.
 
-The gated vocal is a precise production detail. A gate cuts the signal below a threshold, creating a chopped, rhythmic quality — the vocal becomes percussive as much as melodic. In 1997 this technique sat exactly on the border between the atmospheric, breathing quality of progressive house and the more driven, structured feel of what trance was becoming. Hearing it on a record from Sasha in 1997 is hearing the genre split in a single production choice.
+## Artist Story — What Simon Heard
 
-"Progressive by this day but leaning towards trance" is not retrospective analysis. It is the impression formed in real time, in the room, on first listen.
+Simon remembers the processed, rhythmically gated vocal and hearing the production as progressive by the standards of the period while already leaning toward trance.
 
-## The DAT
+That description records his reaction in the room. It is not presented as an independently sourced contemporary review.
 
-Digital Audio Tape — the format on which finished mixes were delivered in the late 1990s before digital file transfer was standard. A remix arriving as a DAT was a physical object: a cassette in a case, played back in the room on a DAT machine. You heard it for the first time together.
+## Independently Verifiable Release Context
 
-Listening to a Sasha remix arrive on DAT in a Reykjavik office in 1997, with the people it was made for, is an experience specific to that moment in music technology and that moment in the progressive house network. It could not happen the same way at any other time.
+Discographic records identify *Purple (Sasha V The Light)* as a GusGus remix version associated with the 1997–1998 release period on 4AD. The documented release identity provides external context for Simon’s memory: [GusGus — Purple releases](https://www.discogs.com/master/36105-Gusgus-Purple).
 
-## What Followed
+## From the 1997 Meeting to the 2014 Remix
 
-The impression formed in the GusGus office — progressive by the day's standards, but leaning toward trance — is the same shift Soundsation documented a year later. *New Direction* (1998, SOS Recordings) was the most vocal-led trance track Soundsation had made: a full lead vocal, the Lunn & Latham mix, released before Tiësto had achieved global dominance and before A State of Trance (2001) existed to carry that kind of record to a worldwide audience.
+Simon later moved to Iceland, turning the earlier Reykjavík connection into part of his lived musical network rather than a one-off visit.
 
-Hearing the club sound move in a Reykjavik office in 1997 and making the record that reflected that movement in 1998 is not coincidence. It is what being inside the network meant: you heard where things were going before the infrastructure arrived to confirm it.
+In a 2014 Decoded Magazine interview about the *Human EP*, Pole Folder stated that Simon was a friend of GusGus and that this connection led to their remix of **Pole Folder & Simon Latham — “U.S.E.”** That published account independently confirms the later professional connection, while the 1997 meeting and the role Simon assigns to *Northern Exposure 2* remain clearly labelled artist history.
 
-## The Network in One Room
+## Documented Narrative Arc
 
-- **Sasha** — playing *Do You Feel It?* at Cream in 1996; now remixing GusGus
-- **GusGus** — on Northern Exposure (1996); Simon's friends in Reykjavik
-- **Northern Exposure** — the album Digweed was touring America with when he named *Do You Feel It?* his record of the year
-- **Simon Latham** — in the room where all of this converges, in 1997
+1. **1996:** John Digweed mentions touring around America while promoting the *Northern Exposure* compilation and identifies Soundsation’s *Do You Feel It?* as one of his favourite records of the year in the same BBC Radio 1 introduction.
+2. **1997:** Simon recalls *Northern Exposure 2* helping lead to the Reykjavík meeting with GusGus, during the period when Renaissance and Anthony Pappa were also in the city.
+3. **Later:** Simon relocates to Iceland.
+4. **2014:** GusGus remix Pole Folder & Simon Latham’s *U.S.E.*; Pole Folder publicly attributes the connection to Simon’s friendship with GusGus.
 
-This is not a network that can be reconstructed from public information. It is a network known from being inside it.
-
----
+The chronology is meaningful, but it is not presented as proof that the *Northern Exposure* brand formally sponsored or commissioned any Soundsation or Simon Latham release.

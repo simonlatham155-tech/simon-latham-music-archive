@@ -1,13 +1,13 @@
 ---
 id: track-human-ep
 title: "Pole Folder & Simon Latham — Human EP"
-subtitle: "2014, Electronical Reeds — GusGus remix; Hernán Cattáneo support"
+subtitle: "2014, Electronical Reeds — documented international DJ and specialist-radio support"
 category: Track
 year: 2014
-tags: [Simon-Latham, Pole-Folder, GusGus, T-World, Lex-Newton, Superdrums, Human-EP, USE, Electronical-Reeds, Belgium, Kompakt, Hernán-Cattáneo, progressive-house, Data-Transmission]
+tags: [Simon-Latham, Pole-Folder, GusGus, T-World, Lex-Newton, Superdrums, Human-EP, USE, Electronical-Reeds, Belgium, Kompakt, Hernán-Cattáneo, Roger-Sanchez, Sasha, Kiss-FM-Australia, The-Beautiful-Drive, progressive-house, Data-Transmission]
 sortKey: 404
 createdAt: "2026-07-15T00:00:00.000Z"
-updatedAt: "2026-07-15T00:00:00.000Z"
+updatedAt: "2026-07-26T01:00:00.000+02:00"
 ---
 
 ## Release
@@ -15,7 +15,20 @@ updatedAt: "2026-07-15T00:00:00.000Z"
 - **Label**: Electronical Reeds (Belgian label)
 - **Artists**: Pole Folder & Simon Latham
 - **Reviewed**: Data Transmission, 7/10 (Grahame Farmer, June 2014)
-- **International support**: Hernán Cattáneo
+- **Documented support**: Hernán Cattáneo chart placement, Roger Sanchez play, Sasha promotional feedback and repeated Kiss FM Australia play
+
+## Contemporary Editorial Assessment
+
+In its June 2014 Pole Folder interview, **Decoded Magazine** introduced the *Human EP* as a “truly great listen,” described it as emotionally charged and “an EP of some character,” and praised its remixes. This is contemporary editorial assessment, distinct from the factual statements Pole Folder supplied in the interview: [Pole Folder is on top of his game](https://www.decodedmagazine.com/pole-folder/).
+
+## Documented Support and Airplay
+
+- **Hernán Cattáneo** placed *U.S.E.* at **#6** in his June 2014 chart. The surviving primary source is Cattáneo's Facebook note, dated 1 June 2014: [June 2014 Chart](https://www.facebook.com/notes/10164980283310001/).
+- **Sasha**, responding through the 2014 Electronical Reeds promotional campaign, wrote: "GusGus v T-World mix is ace." This is contemporary promotional feedback, not evidence of a public play.
+- **Roger Sanchez** played *The Bitter Memory* during *Sunset Sessions* at Kumharas, Ibiza, broadcast by Ibiza Sonica on 4 September 2014. The playlist identifies the release as Electronical Reeds ER031.
+- **Kiss FM Dance Music Australia repeatedly featured *The Bitter Memory*** across five consecutive weekly Top Ten programme mixes: 28 May, 4 June, 11 June, 18 June and 25 June 2014. The 11 June mix, presented by **The Beautiful Drive**, placed the track first: [Kiss FM Dance Music Australia Top Ten — 11 June 2014](https://kissfm.com.au/kiss-fm-top-10-chart/kiss-fm-dance-music-australia-top-ten-11th-june-2014).
+
+This documents repeated specialist dance-radio exposure for the song. It was not an Australian national sales-chart result.
 
 ## Tracks
 
@@ -36,15 +49,15 @@ updatedAt: "2026-07-15T00:00:00.000Z"
 
 ## How the Collaboration Happened — Pole Folder's Account
 
-From Decoded Magazine (2014):
+From Pole Folder’s June 2014 [Decoded Magazine interview](https://www.decodedmagazine.com/pole-folder/):
 
 > "I originally started some tracks with Simon a year ago after we spoke via email. He liked my work and it was very interesting for me to exchange ideas with him. One of the tracks we were working on became quickly an evident option for the 3 years album of Electronical Reeds."
 
-Simon wrote the lyrics on both tracks. Pole Folder was responsible for music writing and production. *The Bitter Memory* emerged from returning to an earlier track they had started; the shift from planned single to EP came as the project developed.
+Pole Folder directly confirmed that **Simon wrote the lyrics on both tracks**, while Pole Folder was responsible for **music writing and production**. The interview is therefore a primary source for their respective creative roles. *The Bitter Memory* emerged from returning to an earlier track they had started; the shift from planned single to EP came as the project developed.
 
 ## How GusGus Got Involved
 
-From Pole Folder in Decoded Magazine:
+From Pole Folder in the same [Decoded Magazine interview](https://www.decodedmagazine.com/pole-folder/):
 
 > "Simon is a friend of the group. When he said that they were interested to do a remix, it was a dream coming true for me. I've been a big fan of GusGus for ages. It's an honour for me to be on their impressive list of artists they have remixed, such as Björk, Depeche Mode and Moloko."
 
@@ -58,9 +71,11 @@ Pole Folder's first releases were on **Bedrock** — John Digweed's label. In th
 
 The thread: Digweed championed *Do You Feel It?* in 1996, the same year Northern Exposure was released. Pole Folder was inspired by Northern Exposure, released on Bedrock, and then collaborated with Simon Latham. Northern Exposure is the document that connects all of these people — Digweed, Pole Folder, and Simon — across nearly two decades.
 
+The source-supported chain is: **Northern Exposure influenced Pole Folder → Pole Folder developed his career through Bedrock → Pole Folder collaborated with Simon Latham → Simon’s friendship with GusGus brought them into the remix package.** The first and final links are Pole Folder’s own published statements.
+
 ## The Hernán Cattáneo Connection
 
-Pole Folder, at the time of the Human EP, had just mixed a compilation for **Sudbeat** — Hernán Cattáneo's own label. This explains Cattáneo's support for the Human EP directly: an existing professional relationship between Pole Folder and Cattáneo's operation.
+Cattáneo's own June 2014 chart is the primary evidence: *U.S.E.* appears at #6. Pole Folder's connection to Cattáneo's Sudbeat label provides relevant professional context, but the chart itself is the confirmed fact.
 
 ## Simon's Own Remix
 
