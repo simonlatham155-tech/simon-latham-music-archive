@@ -64,8 +64,11 @@ By 1995–96 it became hard to describe Sasha & Digweed, Paul van Dyk, and Rober
 ---
 
 ### 1996 — The Blueprint Year (1996)
+
 *Progressive house at its fullest expression*
-Tags: 1996, blueprint, progressive-house, Renaissance, Sasha, Digweed, Northern-Exposure, Cream, Stress-Records, Pete-Tong, Radio-1
+
+**Category:** Era  
+**Tags:** 1996, blueprint, progressive-house, Renaissance, Sasha, Digweed, Northern-Exposure, Cream, Stress-Records, Pete-Tong, Radio-1
 
 ## Not the Beginning — the Blueprint
 
@@ -83,7 +86,7 @@ Sasha's residency at Cream in Liverpool in 1996 was one of the central events of
 
 ## The Digweed Moment
 
-On Pete Tong's BBC Radio 1 Essential Selection Best of 1996 (27 December 1996), John Digweed was asked about his year. He mentioned touring America with Northern Exposure — a record that had defined progressive house internationally, that had taken Sasha and Digweed into American clubs and given the genre a global profile. And then he named his favourite record of the year.
+On Pete Tong's BBC Radio 1 Essential Selection Best of 1996 (27 December 1996), John Digweed was asked about his year. He mentioned touring around America while promoting the Northern Exposure compilation — a record that had defined progressive house internationally, that had taken Sasha and Digweed into American clubs and given the genre a global profile. And then he named his favourite record of the year.
 
 It was not a track from Northern Exposure. It was not something from the mainstream of the scene. It was *Do You Feel It?* by Soundsation — a Stress Records release, an underground progressive house record, something that had reached him through the DJ network before any wide commercial release.
 
@@ -102,6 +105,11 @@ That exchange — Digweed's exclusivity, Tong's acknowledgement of it — is a d
 The blueprint year is the year before things start to change. By 1997–98 the scene would be fragmenting — trance pulling one way, commercial pressure pulling another, the purity of the early sound becoming harder to maintain as the genre got bigger.
 
 1996 is the year when all the values of progressive house — the journey, the underground circulation, the DJ as curator, the compilation as document — were operating at full strength and in alignment. It is the year the thing was most completely itself.
+
+
+## Further reading
+
+- [Northern Exposure — The Mix That Changed Everything](https://www.decodedmagazine.com/northern-exposure-the-mix-that-changed-everything/) — Decoded Magazine.
 
 ---
 
@@ -196,8 +204,11 @@ Paradoxically, Goa trance and progressive house influenced each other despite th
 ---
 
 ### Northern Exposure (1996)
+
 *Sasha & Digweed, 1996 — the listening album that linked back to everything*
-Tags: Sasha, Digweed, Northern-Exposure, listening-album, progressive-house, 1996, compilation, America
+
+**Category:** Concept  
+**Tags:** Sasha, Digweed, Northern-Exposure, listening-album, progressive-house, 1996, compilation, America
 
 ## What It Was
 
@@ -213,7 +224,7 @@ This is what it means that it "linked to all the records that had been there." T
 
 ## The America Tour
 
-Digweed specifically mentioned touring America with Northern Exposure in his BBC Radio 1 Best of 1996 introduction before naming *Do You Feel It?* as his favourite record of the year. The American tour is significant: it took progressive house into rooms and to audiences it had not previously reached. Northern Exposure was the calling card — the listening record that explained what Sasha and Digweed were doing before a club audience had experienced it.
+Digweed specifically mentioned touring around America while promoting the Northern Exposure compilation in his BBC Radio 1 Best of 1996 introduction before naming *Do You Feel It?* as his favourite record of the year. The American tour is significant: it took progressive house into rooms and to audiences it had not previously reached. Northern Exposure was the calling card — the listening record that explained what Sasha and Digweed were doing before a club audience had experienced it.
 
 ## Why Digweed's Choice Matters in This Context
 
@@ -225,7 +236,7 @@ Northern Exposure had just demonstrated that the progressive house aesthetic cou
 
 ## The Bedrock Continuation
 
-Belgian producer Pole Folder's first releases were on Bedrock — Digweed's label — and he cited Northern Exposure specifically as a touchstone in a 2014 Decoded Magazine interview. When Pole Folder later collaborated with Simon Latham on the Human EP (Electronical Reeds, 2014), GusGus — who appeared on Northern Exposure — remixed the track because Simon is a personal friend of the group. The document that Digweed was touring America with in 1996, the same year he named *Do You Feel It?* as his favourite record, is explicitly in the chain of connections that produced a 2014 collaboration between the person who made that record and a Belgian producer whose career began on Digweed's own label.
+Belgian producer Pole Folder's first releases were on Bedrock — Digweed's label — and he cited Northern Exposure specifically as a touchstone in a 2014 Decoded Magazine interview. When Pole Folder later collaborated with Simon Latham on the Human EP (Electronical Reeds, 2014), GusGus — who appeared on Northern Exposure — remixed the track because Simon is a personal friend of the group. The compilation Digweed was touring around America to promote in 1996, the same year he named *Do You Feel It?* as his favourite record, is explicitly in the chain of connections that produced a 2014 collaboration between the person who made that record and a Belgian producer whose career began on Digweed's own label.
 
 ## GusGus
 
@@ -238,6 +249,11 @@ The GusGus connection persists beyond Northern Exposure. They later remixed a tr
 Northern Exposure established a template that would be used throughout the late 1990s: the DJ mix as home listening record, designed for headphones, sequenced for emotional arc rather than dancefloor function. Global Underground, Balance, Bedrock compilations — all of these owe something to what Northern Exposure demonstrated was possible.
 
 The irony is that the format proved the music could exist outside the club — but the DJs who made those records most successfully remained most invested in the underground circuit that had produced them.
+
+
+## Further reading
+
+- [Northern Exposure — The Mix That Changed Everything](https://www.decodedmagazine.com/northern-exposure-the-mix-that-changed-everything/) — Decoded Magazine.
 
 ---
 
@@ -825,7 +841,7 @@ This exchange is a document of how progressive house records spread — DJ to DJ
 
 ### Northern Exposure Context
 
-The link between Soundsation and *Northern Exposure* is documented in Digweed’s own introduction: he spoke about promoting the album in America and the UK, then named *Do You Feel It?* among his favourite records of 1996. The track was not on a *Northern Exposure* compilation; the significance is that Digweed placed both within the same account of his year.
+The link between Soundsation and *Northern Exposure* is documented in Digweed’s own introduction: he spoke about touring around America while promoting the *Northern Exposure* compilation, then named *Do You Feel It?* among his favourite records of 1996. The track was not on a *Northern Exposure* compilation; the significance is that Digweed placed both within the same account of his year.
 
 ## Sasha and Cream
 
@@ -1398,7 +1414,9 @@ What he experienced was the fact of it: the record was on Radio 1's flagship sho
 
 On Pete Tong's BBC Radio 1 Essential Selection Best of 1996 (27 December 1996), John Digweed introduced the track:
 
-> "1996 has been a great year for me… as well as that I've been promoting the Northern Exposure album in America and the UK, which has both been really successful. I think one of my favourite records of this year is a track by Soundsation and it's called Do You Feel It?. Hope you like it, have a good Christmas and a happy new year."
+Digweed first referred to **touring around America while promoting the *Northern Exposure* compilation**, then selected the Soundsation track:
+
+> "I think one of my favourite records of this year is a track by Soundsation and it's called Do You Feel It?. Hope you like it, have a good Christmas and a happy new year."
 
 On a follow-up Essential Selection broadcast (7 February 1997), Pete Tong noted:
 
@@ -1408,9 +1426,9 @@ This exchange is a precise document of how progressive house records spread thro
 
 ### The Precise Northern Exposure Link
 
-The connection between Soundsation and **Northern Exposure** is the wording and context of Digweed’s own 27 December 1996 introduction. In the same message, he described promoting the *Northern Exposure* album in America and the UK, then selected Soundsation’s *Do You Feel It?* as one of his favourite records of 1996.
+The connection between Soundsation and **Northern Exposure** is the wording and context of Digweed’s own 27 December 1996 introduction. In the same message, he described touring around America while promoting the *Northern Exposure* compilation, then selected Soundsation’s *Do You Feel It?* as one of his favourite records of 1996.
 
-This does **not** mean that *Do You Feel It?* appeared on a *Northern Exposure* compilation. It documents the track being championed by Digweed during the same period and in the same broadcast statement as his work promoting *Northern Exposure*.
+This does **not** mean that *Do You Feel It?* appeared on a *Northern Exposure* compilation. It documents the track being championed by Digweed during the same period and in the same broadcast statement as the American *Northern Exposure* tour.
 
 ## Sasha at Cream
 
@@ -1984,7 +2002,7 @@ In a 2014 Decoded Magazine interview about the *Human EP*, Pole Folder stated th
 
 ## Documented Narrative Arc
 
-1. **1996:** John Digweed mentions promoting *Northern Exposure* and identifies Soundsation’s *Do You Feel It?* as one of his favourite records of the year in the same BBC Radio 1 introduction.
+1. **1996:** John Digweed mentions touring around America while promoting the *Northern Exposure* compilation and identifies Soundsation’s *Do You Feel It?* as one of his favourite records of the year in the same BBC Radio 1 introduction.
 2. **1997:** Simon recalls *Northern Exposure 2* helping lead to the Reykjavík meeting with GusGus, during the period when Renaissance and Anthony Pappa were also in the city.
 3. **Later:** Simon relocates to Iceland.
 4. **2014:** GusGus remix Pole Folder & Simon Latham’s *U.S.E.*; Pole Folder publicly attributes the connection to Simon’s friendship with GusGus.
