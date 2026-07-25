@@ -928,6 +928,7 @@ A solo album written and recorded in Iceland, moving progressive house compositi
 
 ## Key Labels for the Vocal Work
 
+- **S107 Recordings / Armada Music** — DJ Eco feat. Simon Latham, *What Do You See?* (S107017, 2009). S107 was launched by Armada Music for vocal progressive and trance releases; the Ashley Wallbridge remix was played on A State of Trance 424 and later included on Armada Music’s *Best Vocalists 2012* compilation. Sources: [A State of Trance 424](https://www.astateoftrance.com/episode-424/), [Beatport](https://www.beatport.com/track/what-do-you-see-feat-simon-latham/4593275), [Apple Music — Best Vocalists 2012](https://music.apple.com/tr/album/best-vocalists-2012/562222530)
 - **Amsterdam Trance Records / Adrian & Raz** — Ascend collaboration
 - **Infrasonic Recordings** — Colonial One, Hanski; described by Mixmag as "arguably one of the world's most exciting new trance labels"
 - **Magic Island / Black Hole Recordings** — Ari Kyle collaborations; Roger Shah's label
