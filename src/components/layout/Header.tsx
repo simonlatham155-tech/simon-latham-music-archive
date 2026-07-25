@@ -162,6 +162,13 @@ export function Header() {
 
       <div className="flex-1" />
 
+      <a
+        href="dj-support.html"
+        className="text-xs px-3 py-1.5 rounded-lg border border-teal-500/30 bg-teal-500/10 text-teal-300 hover:bg-teal-500/20 transition-colors whitespace-nowrap"
+      >
+        DJ Support Database
+      </a>
+
       <ExportMenu />
     </header>
   );

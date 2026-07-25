@@ -9,6 +9,11 @@ npm install
 npm run dev
 ```
 
+## Browser pages
+
+- [Article archive](./)
+- [DJ Support Database](./dj-support.html) — searchable table with Excel, CSV, and JSON downloads
+
 ## Contents
 
 - 49 canonical Markdown articles in `articles/`
