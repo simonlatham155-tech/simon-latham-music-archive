@@ -1,0 +1,7 @@
+/** Safe minimal Markdown renderer for archive-authored content. */
+export function renderMarkdown(md: string): string {
+ const esc=(s:string)=>s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+ const inline=(raw:string)=>esc(raw).replace(/`([^`]+)`/g,'<code>$1</code>').replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>').replace(/\*(.+?)\*/g,'<em>$1</em>').replace(/\[([^\]]+)\]\((https?:\/\/[^)]+|mailto:[^)]+)\)/g,'<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>');
+ const ls=md.split('\n'),o:string[]=[];let u=false,n=false;const close=()=>{if(u){o.push('</ul>');u=false}if(n){o.push('</ol>');n=false}};
+ for(const l of ls){if(/^### /.test(l)){close();o.push(`<h3>${inline(l.slice(4))}</h3>`)}else if(/^## /.test(l)){close();o.push(`<h2>${inline(l.slice(3))}</h2>`)}else if(/^# /.test(l)){close();o.push(`<h1>${inline(l.slice(2))}</h1>`)}else if(/^---+$/.test(l.trim())){close();o.push('<hr>')}else if(/^> /.test(l)){close();o.push(`<blockquote>${inline(l.slice(2))}</blockquote>`)}else if(/^- /.test(l)){if(n){o.push('</ol>');n=false}if(!u){o.push('<ul>');u=true}o.push(`<li>${inline(l.slice(2))}</li>`)}else if(/^\d+\. /.test(l)){if(u){o.push('</ul>');u=false}if(!n){o.push('<ol>');n=true}o.push(`<li>${inline(l.replace(/^\d+\. /,''))}</li>`)}else if(!l.trim()){close();o.push('')}else{close();o.push(`<p>${inline(l)}</p>`)}}close();return o.join('\n').replace(/\n{3,}/g,'\n\n');
+}
