@@ -1,6 +1,6 @@
 # Progressive House & the Birth of Trance — Personal Knowledge Base
 
-This document contains 47 articles organised as a personal knowledge base about the origins of progressive house music and how it evolved into modern trance. The content reflects personal experiences and deep familiarity with the scene.
+This document contains 49 articles organised as a personal knowledge base about the origins of progressive house music and how it evolved into modern trance. The content reflects personal experiences and deep familiarity with the scene.
 
 ---
 
@@ -733,7 +733,7 @@ Van Dyk is important to this story not because he represents the same thing as t
 *UK Electronic Music Project, 1994–1999*
 
 **Category:** Artist  
-**Tags:** Soundsation, UK, progressive-house, trance, Stress-Records, FFRR, SOS-Recordings, Simon-Latham, Pete-Lunn, Martyn-The-Hat
+**Tags:** Soundsation, UK, progressive-house, trance, Stress-Records, FFRR, SOS-Recordings, Simon-Latham, Pete-Lunn, Martyn-The-Hat, Northern-Exposure, GusGus, Iceland
 
 ## What It Was
 
@@ -823,6 +823,10 @@ On a subsequent broadcast (7 February 1997), Tong referenced the track's prior u
 
 This exchange is a document of how progressive house records spread — DJ to DJ before any official release, with exclusivity as part of the value.
 
+### Northern Exposure Context
+
+The link between Soundsation and *Northern Exposure* is documented in Digweed’s own introduction: he spoke about promoting the album in America and the UK, then named *Do You Feel It?* among his favourite records of 1996. The track was not on a *Northern Exposure* compilation; the significance is that Digweed placed both within the same account of his year.
+
 ## Sasha and Cream
 
 The record was also played by Sasha, including at his Cream, Liverpool residency set on 15 June 1996. Sasha playing a record at Cream in 1996 was as significant an endorsement as the scene had.
@@ -848,6 +852,14 @@ Soundsation's own independent imprint. Distributed via Amato (1994–1997) and M
 Simon Latham relocated to Iceland because of his Icelandic wife, **Sylvi** — also a vocalist, also active in the international trance scene. Sylvi featured on A State of Trance as the vocalist on Bris's *Speed Limits*, and had songs with Spark7, both of which received ASOT support. Simon also worked with Spark7 — *You Wanted More* — meaning both of them had independent connections to the same producers and shows. They settled in Iceland. He had visited Iceland before the permanent relocation, including being at the GusGus office in Reykjavik in 1997. Biggi from GusGus was already a long-term friend.
 
 Once settled, he founded Airport Route Recordings — the successor label to SOS Recordings, which he had run with Pete Lunn during the Soundsation years. The Icelandic music connections that followed came from being a resident: GusGus, Birgitta Haukdal, and giving early platform to Kid Mistik (Bjarki) and Johann Stone.
+
+### Artist Story — From Northern Exposure 2 to GusGus
+
+**Evidence status: Simon Latham’s firsthand chronology, except for the separately sourced 2014 remix account.**
+
+Simon recalls *Northern Exposure 2* as part of the chain that led to his 1997 meeting with GusGus in Reykjavík. Renaissance was also in Reykjavík with Anthony Pappa during that period. Simon later moved to Iceland, and in 2014 GusGus remixed Pole Folder & Simon Latham’s *U.S.E.* Pole Folder’s published *Human EP* interview states that Simon’s friendship with GusGus led to the remix.
+
+This creates a traceable career arc across progressive-house culture, Reykjavík and the later collaboration without claiming that *Northern Exposure* formally released or commissioned Soundsation.
 
 ## SOS Recordings and Pete Lunn
 
@@ -1355,7 +1367,7 @@ Pete and Martyn later released *USA Turn It Up* and *Disco Remedy* in the same h
 *1996, Stress Records (12STR 88)*
 
 **Category:** Track  
-**Tags:** Soundsation, Stress-Records, John-Digweed, Pete-Tong, Sasha, Cream, Renaissance, progressive-house, Radio-1
+**Tags:** Soundsation, Stress-Records, John-Digweed, Pete-Tong, Sasha, Cream, Renaissance, Northern-Exposure, progressive-house, Radio-1
 
 ## Release
 
@@ -1393,6 +1405,12 @@ On a follow-up Essential Selection broadcast (7 February 1997), Pete Tong noted:
 > "I do believe that was John Digweed's big tune of '96 actually — Soundsation 'Do You Feel It?'. Mainly because he was the only one that had it, but we can all have it now."
 
 This exchange is a precise document of how progressive house records spread through the DJ network — exclusivity first, circulation later.
+
+### The Precise Northern Exposure Link
+
+The connection between Soundsation and **Northern Exposure** is the wording and context of Digweed’s own 27 December 1996 introduction. In the same message, he described promoting the *Northern Exposure* album in America and the UK, then selected Soundsation’s *Do You Feel It?* as one of his favourite records of 1996.
+
+This does **not** mean that *Do You Feel It?* appeared on a *Northern Exposure* compilation. It documents the track being championed by Digweed during the same period and in the same broadcast statement as his work promoting *Northern Exposure*.
 
 ## Sasha at Cream
 
@@ -1932,7 +1950,7 @@ Knowing what you want to make partly means knowing what's missing from what you'
 *Artist story — hearing GusGus “Purple (Sasha V The Light)” arrive*
 
 **Category:** Personal Memory  
-**Tags:** GusGus, Biggi, Sasha, The-Light, DAT, Reykjavik, Iceland, 1997, personal-memory, progressive-house, network
+**Tags:** GusGus, Biggi, Sasha, The-Light, Northern-Exposure-2, Renaissance, Anthony-Pappa, Reykjavik, Iceland, 1997, 2014, personal-memory, progressive-house, network
 
 ## Artist Story — The Arrival
 
@@ -1941,6 +1959,12 @@ Knowing what you want to make partly means knowing what's missing from what you'
 Simon recalls being at the GusGus office in Reykjavik in 1997 when a copy of **GusGus — “Purple (Sasha V The Light)”** arrived through the post. He listened to it there with people from the group.
 
 The record was *Purple*, not a separate track by an artist called The Light. “Sasha V The Light” identifies the remix collaboration associated with that version.
+
+## Artist Story — Northern Exposure 2 and Reykjavík
+
+**Evidence status: Firsthand recollection by Simon Latham; the causal link is artist testimony.**
+
+Simon recalls **Northern Exposure 2** as part of the chain of events that led to him meeting GusGus in Reykjavík in 1997. During the same Reykjavík period, Renaissance was in the city with **Anthony Pappa**. These details place the meeting within the late-1990s progressive-house culture surrounding Sasha, John Digweed and Renaissance, but they are preserved here as Simon’s recollection unless an event listing or other contemporary source is added.
 
 ## Artist Story — What Simon Heard
 
@@ -1952,6 +1976,17 @@ That description records his reaction in the room. It is not presented as an ind
 
 Discographic records identify *Purple (Sasha V The Light)* as a GusGus remix version associated with the 1997–1998 release period on 4AD. The documented release identity provides external context for Simon’s memory: [GusGus — Purple releases](https://www.discogs.com/master/36105-Gusgus-Purple).
 
-## Later Confirmed GusGus Connection
+## From the 1997 Meeting to the 2014 Remix
 
-In a 2014 Decoded Magazine interview about the *Human EP*, Pole Folder stated that Simon was a friend of GusGus and that this connection led to their remix of *U.S.E.* That published account independently confirms the longer relationship, while the 1997 office scene remains Simon’s artist story.
+Simon later moved to Iceland, turning the earlier Reykjavík connection into part of his lived musical network rather than a one-off visit.
+
+In a 2014 Decoded Magazine interview about the *Human EP*, Pole Folder stated that Simon was a friend of GusGus and that this connection led to their remix of **Pole Folder & Simon Latham — “U.S.E.”** That published account independently confirms the later professional connection, while the 1997 meeting and the role Simon assigns to *Northern Exposure 2* remain clearly labelled artist history.
+
+## Documented Narrative Arc
+
+1. **1996:** John Digweed mentions promoting *Northern Exposure* and identifies Soundsation’s *Do You Feel It?* as one of his favourite records of the year in the same BBC Radio 1 introduction.
+2. **1997:** Simon recalls *Northern Exposure 2* helping lead to the Reykjavík meeting with GusGus, during the period when Renaissance and Anthony Pappa were also in the city.
+3. **Later:** Simon relocates to Iceland.
+4. **2014:** GusGus remix Pole Folder & Simon Latham’s *U.S.E.*; Pole Folder publicly attributes the connection to Simon’s friendship with GusGus.
+
+The chronology is meaningful, but it is not presented as proof that the *Northern Exposure* brand formally sponsored or commissioned any Soundsation or Simon Latham release.
