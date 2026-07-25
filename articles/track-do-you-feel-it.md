@@ -7,7 +7,7 @@ year: 1996
 tags: [Soundsation, Stress-Records, John-Digweed, Pete-Tong, Sasha, Cream, Renaissance, progressive-house, Radio-1]
 sortKey: 402
 createdAt: "2026-07-15T00:00:00.000Z"
-updatedAt: "2026-07-15T00:00:00.000Z"
+updatedAt: "2026-07-26T00:00:00.000+02:00"
 ---
 
 ## Release
@@ -20,6 +20,14 @@ updatedAt: "2026-07-15T00:00:00.000Z"
 - **Compilation**: Renaissance — The Mix Collection Part 4
 
 All chart entries filed under "Soundstation" (misspelling) on the Official Charts database — part of the documentation gap that made the career harder to find.
+
+## Artist Story — Making “Do You Feel It?”
+
+**Evidence status: Firsthand recollection by Simon Latham.**
+
+Simon Latham recalls creating the track’s distinctive **high-pitched wobble** by editing a sound on the **Roland JV-1080** while having a few Budweisers. After going clubbing that night, he returned the following morning and completed the arrangement.
+
+This production account is preserved as artist testimony rather than an independently documented technical fact.
 
 ## On the Essential Selection
 
