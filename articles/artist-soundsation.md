@@ -101,7 +101,7 @@ This exchange is a document of how progressive house records spread — DJ to DJ
 
 ### Northern Exposure Context
 
-The link between Soundsation and *Northern Exposure* is documented in Digweed’s own introduction: he spoke about promoting the album in America and the UK, then named *Do You Feel It?* among his favourite records of 1996. The track was not on a *Northern Exposure* compilation; the significance is that Digweed placed both within the same account of his year.
+The link between Soundsation and *Northern Exposure* is documented in Digweed’s own introduction: he spoke about touring around America while promoting the *Northern Exposure* compilation, then named *Do You Feel It?* among his favourite records of 1996. The track was not on a *Northern Exposure* compilation; the significance is that Digweed placed both within the same account of his year.
 
 ## Sasha and Cream
 
