@@ -8,7 +8,7 @@ yearEnd: 1999
 tags: [Soundsation, UK, progressive-house, trance, Stress-Records, FFRR, SOS-Recordings, Simon-Latham, Pete-Lunn, Martyn-The-Hat]
 sortKey: 105
 createdAt: "2026-07-15T00:00:00.000Z"
-updatedAt: "2026-07-15T00:00:00.000Z"
+updatedAt: "2026-07-26T00:00:00.000+02:00"
 ---
 
 ## What It Was
@@ -17,7 +17,9 @@ Soundsation was a UK electronic music project active between 1994 and 1999. Memb
 
 The project began in the white-label sampling era and moved through progressive house before documenting a clear shift toward melodic/uplifting trance by the late 1990s. Its catalogue charts the transition from the inside — not as observers of the genre shift but as participants in it.
 
-## Before Soundsation — Something Wild (1990)
+## Artist Story — Before Soundsation: Something Wild (1990)
+
+**Evidence status: Simon Latham’s firsthand account, except where linked releases or chart records independently verify individual details.**
 
 Simon Latham's musical history before Soundsation runs through two earlier projects, both pop-oriented and distinct from anything that followed.
 
@@ -33,7 +35,9 @@ James Wiltshire produced two of their tracks. Wiltshire would go on to become on
 
 The distance between Something Wild in 1990 and *Do You Feel It?* on Stress Records in 1996 is the distance between Pet Shop Boys and John Digweed. The connection that bridged it was Wiltshire — the one constant across both moments. When the Jackpot vs. Stress decision came four years later, Simon's trust in him was based on having made music together, not on anything the scene had told him.
 
-## How It Started — A Lenny Kravitz Sample and a Move to Bournemouth
+## Artist Story — How Soundsation Started
+
+**Evidence status: Simon Latham’s firsthand account of the project’s formation.**
 
 Soundsation did not begin as a planned project. It started with a one-off idea: to make a record using a Lenny Kravitz sample. Pete and Warren took the lead on that record; they guessed it would be huge. Simon was writing with Pete on more pop-sounding tracks separately, and all of this mixed together organically — the way most bands actually start rather than how they later describe it.
 
@@ -45,11 +49,35 @@ Warren Clarke was a producer involved in the early period. His sound was rooted 
 
 The Lenny Kravitz sample origin explains the Peace & Joy pattern too. The early Soundsation records were built on samples — uncleared, pressed for club use, pulled when the commercial reality caught up. That was the method before the method had a name.
 
+## Artist Story — Working Roles
+
+**Evidence status: Simon Latham’s account of the group’s practical division of work.**
+
+- **Pete Lunn** — production engineering and technical studio work
+- **Simon Latham** — songwriting, vocals and trackmaking
+- **Martyn “The Hat”** — local DJ and club-floor perspective
+- **Warren Clarke** — early production role; departed in 1995
+
+These descriptions record working roles rather than attempting to replace the credits printed on individual releases.
+
 ## The White-Label Years
 
 Early work circulated as white labels across UK clubs before commercial release. *Peace & Joy* (1994) was pressed as Smokin' Vinyl SMK 001 and circulated widely before being picked up by FFRR / London Records. The early pressings contained an uncleared vocal sample characteristic of the era — club audiences noticed the absence of the sample on the retail version, confirming their prior exposure to the white label.
 
 This pattern — underground circulation first, commercial release second — was standard for the period and reflects how progressive house records actually moved through the DJ network.
+
+## The 1990s Record-Development Workflow
+
+Soundsation’s releases moved through a period-specific sequence:
+
+1. Hardware-based studio production
+2. Acetate, dubplate or test pressing
+3. White-label circulation to DJs
+4. Club play and audience testing
+5. Magazine, radio and DJ feedback
+6. Commercial licensing or wider release where possible
+
+This workflow explains why an early DJ playlist, radio recording or white-label pressing is historically significant. In the mid-1990s, those artefacts document how a record travelled before digital distribution, streaming statistics or searchable online metadata existed.
 
 ## Stress Records — The Label Decision
 
