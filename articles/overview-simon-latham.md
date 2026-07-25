@@ -23,7 +23,7 @@ Progressive house in a handbag town. Vocal trance a year before ATB's breakthrou
 
 **The records exist at the highest level.**
 
-*Do You Feel It?* was named by John Digweed as his favourite record of 1996 on BBC Radio 1's Essential Selection — while Digweed was mid-tour with Northern Exposure, the most commercially successful progressive house release of the era. He chose a Stress Records release over anything from that campaign.
+*Do You Feel It?* was named by John Digweed as his favourite record of 1996 on BBC Radio 1's Essential Selection — immediately after Digweed discussed touring around America while promoting the *Northern Exposure* compilation. He chose a Stress Records release over anything from that campaign.
 
 Sasha played *Do You Feel It?* at Cream in Liverpool — the defining progressive house venue of its period. Dave Seaman selected it for the Renaissance Mix Collection Part 4 before any label deal was signed, then called Soundsation directly.
 
