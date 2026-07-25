@@ -39,7 +39,9 @@ What he experienced was the fact of it: the record was on Radio 1's flagship sho
 
 On Pete Tong's BBC Radio 1 Essential Selection Best of 1996 (27 December 1996), John Digweed introduced the track:
 
-> "1996 has been a great year for me… as well as that I've been promoting the Northern Exposure album in America and the UK, which has both been really successful. I think one of my favourite records of this year is a track by Soundsation and it's called Do You Feel It?. Hope you like it, have a good Christmas and a happy new year."
+Digweed first referred to **touring around America while promoting the *Northern Exposure* compilation**, then selected the Soundsation track:
+
+> "I think one of my favourite records of this year is a track by Soundsation and it's called Do You Feel It?. Hope you like it, have a good Christmas and a happy new year."
 
 On a follow-up Essential Selection broadcast (7 February 1997), Pete Tong noted:
 
@@ -49,9 +51,9 @@ This exchange is a precise document of how progressive house records spread thro
 
 ### The Precise Northern Exposure Link
 
-The connection between Soundsation and **Northern Exposure** is the wording and context of Digweed’s own 27 December 1996 introduction. In the same message, he described promoting the *Northern Exposure* album in America and the UK, then selected Soundsation’s *Do You Feel It?* as one of his favourite records of 1996.
+The connection between Soundsation and **Northern Exposure** is the wording and context of Digweed’s own 27 December 1996 introduction. In the same message, he described touring around America while promoting the *Northern Exposure* compilation, then selected Soundsation’s *Do You Feel It?* as one of his favourite records of 1996.
 
-This does **not** mean that *Do You Feel It?* appeared on a *Northern Exposure* compilation. It documents the track being championed by Digweed during the same period and in the same broadcast statement as his work promoting *Northern Exposure*.
+This does **not** mean that *Do You Feel It?* appeared on a *Northern Exposure* compilation. It documents the track being championed by Digweed during the same period and in the same broadcast statement as the American *Northern Exposure* tour.
 
 ## Sasha at Cream
 
