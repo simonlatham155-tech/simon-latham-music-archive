@@ -6,7 +6,6 @@ export const seedArticles: Article[] = [
     "title": "Simon Latham — An Overview",
     "subtitle": "Three decades at the intersection of progressive house, trance, and the underground-to-major arc",
     "category": "Concept",
-    "year": null,
     "tags": [
       "Simon-Latham",
       "overview",
@@ -519,7 +518,6 @@ export const seedArticles: Article[] = [
     "title": "The Journey Metaphor",
     "subtitle": "",
     "category": "Concept",
-    "year": null,
     "tags": [
       "DJing",
       "philosophy",
@@ -536,7 +534,6 @@ export const seedArticles: Article[] = [
     "title": "Supersaw and the Sound of Trance",
     "subtitle": "",
     "category": "Concept",
-    "year": null,
     "tags": [
       "sound-design",
       "synthesiser",
@@ -593,7 +590,6 @@ export const seedArticles: Article[] = [
     "title": "Early to the Room",
     "subtitle": "A recurring pattern across three decades",
     "category": "Concept",
-    "year": null,
     "tags": [
       "Simon-Latham",
       "Soundsation",
@@ -616,7 +612,6 @@ export const seedArticles: Article[] = [
     "title": "The Documentation Gap",
     "subtitle": "Why careers like Soundsation don't appear in AI training data — and what that absence looks like",
     "category": "Concept",
-    "year": null,
     "tags": [
       "documentation",
       "AI",
@@ -637,7 +632,6 @@ export const seedArticles: Article[] = [
     "title": "Simon Latham — Vocalist or Producer?",
     "subtitle": "How the identity shifted across three decades",
     "category": "Concept",
-    "year": null,
     "tags": [
       "Simon-Latham",
       "vocalist",
@@ -768,7 +762,6 @@ export const seedArticles: Article[] = [
     "title": "Disco Remedy — Armin van Buuren remix as Gimmick",
     "subtitle": "SOS Recordings; early Armin alias",
     "category": "Track",
-    "year": null,
     "tags": [
       "SOS-Recordings",
       "Pete-Lunn",
@@ -898,7 +891,6 @@ export const seedArticles: Article[] = [
     "title": "Slighter & Simon Latham — Deadly",
     "subtitle": "Lethal Weapon, FOX TV Season 1",
     "category": "Track",
-    "year": null,
     "tags": [
       "Simon-Latham",
       "Slighter",
@@ -955,7 +947,6 @@ export const seedArticles: Article[] = [
     "title": "The Bournemouth Club Scene",
     "subtitle": "Early 1990s — handbag town with pockets of the new sound",
     "category": "Venue / Event",
-    "year": null,
     "tags": [
       "Bournemouth",
       "Zoo",
