@@ -1588,15 +1588,25 @@ The trajectory from *New Direction* (SOS Recordings, 1998) — a full lead vocal
 ---
 
 ### Pole Folder & Simon Latham — Human EP (2014)
-*2014, Electronical Reeds — GusGus remix; Hernán Cattáneo support*
-Tags: Simon-Latham, Pole-Folder, GusGus, T-World, Lex-Newton, Superdrums, Human-EP, USE, Electronical-Reeds, Belgium, Kompakt, Hernán-Cattáneo, progressive-house, Data-Transmission
+*2014, Electronical Reeds — documented international DJ and specialist-radio support*
+**Category:** Track
+**Tags:** Simon-Latham, Pole-Folder, GusGus, T-World, Lex-Newton, Superdrums, Human-EP, USE, Electronical-Reeds, Belgium, Kompakt, Hernán-Cattáneo, Roger-Sanchez, Sasha, Kiss-FM-Australia, The-Beautiful-Drive, progressive-house, Data-Transmission
 
 ## Release
 
 - **Label**: Electronical Reeds (Belgian label)
 - **Artists**: Pole Folder & Simon Latham
 - **Reviewed**: Data Transmission, 7/10 (Grahame Farmer, June 2014)
-- **International support**: Hernán Cattáneo
+- **Documented support**: Hernán Cattáneo chart placement, Roger Sanchez play, Sasha promotional feedback and repeated Kiss FM Australia play
+
+## Documented Support and Airplay
+
+- **Hernán Cattáneo** placed *U.S.E.* at **#6** in his June 2014 chart. The surviving primary source is Cattáneo's Facebook note, dated 1 June 2014: [June 2014 Chart](https://www.facebook.com/notes/10164980283310001/).
+- **Sasha**, responding through the 2014 Electronical Reeds promotional campaign, wrote: "GusGus v T-World mix is ace." This is contemporary promotional feedback, not evidence of a public play.
+- **Roger Sanchez** played *The Bitter Memory* during *Sunset Sessions* at Kumharas, Ibiza, broadcast by Ibiza Sonica on 4 September 2014. The playlist identifies the release as Electronical Reeds ER031.
+- **Kiss FM Dance Music Australia repeatedly featured *The Bitter Memory*** across five consecutive weekly Top Ten programme mixes: 28 May, 4 June, 11 June, 18 June and 25 June 2014. The 11 June mix, presented by **The Beautiful Drive**, placed the track first: [Kiss FM Dance Music Australia Top Ten — 11 June 2014](https://kissfm.com.au/kiss-fm-top-10-chart/kiss-fm-dance-music-australia-top-ten-11th-june-2014).
+
+This documents repeated specialist dance-radio exposure for the song. It was not an Australian national sales-chart result.
 
 ## Tracks
 
@@ -1641,7 +1651,7 @@ The thread: Digweed championed *Do You Feel It?* in 1996, the same year Northern
 
 ## The Hernán Cattáneo Connection
 
-Pole Folder, at the time of the Human EP, had just mixed a compilation for **Sudbeat** — Hernán Cattáneo's own label. This explains Cattáneo's support for the Human EP directly: an existing professional relationship between Pole Folder and Cattáneo's operation.
+Cattáneo's own June 2014 chart is the primary evidence: *U.S.E.* appears at #6. Pole Folder's connection to Cattáneo's Sudbeat label provides relevant professional context, but the chart itself is the confirmed fact.
 
 ## Simon's Own Remix
 
