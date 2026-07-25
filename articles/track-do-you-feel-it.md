@@ -4,7 +4,7 @@ title: "Soundsation — Do You Feel It?"
 subtitle: "1996, Stress Records (12STR 88)"
 category: Track
 year: 1996
-tags: [Soundsation, Stress-Records, John-Digweed, Pete-Tong, Sasha, Cream, Renaissance, progressive-house, Radio-1]
+tags: [Soundsation, Stress-Records, John-Digweed, Pete-Tong, Sasha, Cream, Renaissance, Northern-Exposure, progressive-house, Radio-1]
 sortKey: 402
 createdAt: "2026-07-15T00:00:00.000Z"
 updatedAt: "2026-07-26T00:00:00.000+02:00"
@@ -46,6 +46,12 @@ On a follow-up Essential Selection broadcast (7 February 1997), Pete Tong noted:
 > "I do believe that was John Digweed's big tune of '96 actually — Soundsation 'Do You Feel It?'. Mainly because he was the only one that had it, but we can all have it now."
 
 This exchange is a precise document of how progressive house records spread through the DJ network — exclusivity first, circulation later.
+
+### The Precise Northern Exposure Link
+
+The connection between Soundsation and **Northern Exposure** is the wording and context of Digweed’s own 27 December 1996 introduction. In the same message, he described promoting the *Northern Exposure* album in America and the UK, then selected Soundsation’s *Do You Feel It?* as one of his favourite records of 1996.
+
+This does **not** mean that *Do You Feel It?* appeared on a *Northern Exposure* compilation. It documents the track being championed by Digweed during the same period and in the same broadcast statement as his work promoting *Northern Exposure*.
 
 ## Sasha at Cream
 
