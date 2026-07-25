@@ -42,7 +42,7 @@ In a 2014 Decoded Magazine interview about the *Human EP*, Pole Folder stated th
 
 ## Documented Narrative Arc
 
-1. **1996:** John Digweed mentions promoting *Northern Exposure* and identifies Soundsation’s *Do You Feel It?* as one of his favourite records of the year in the same BBC Radio 1 introduction.
+1. **1996:** John Digweed mentions touring around America while promoting the *Northern Exposure* compilation and identifies Soundsation’s *Do You Feel It?* as one of his favourite records of the year in the same BBC Radio 1 introduction.
 2. **1997:** Simon recalls *Northern Exposure 2* helping lead to the Reykjavík meeting with GusGus, during the period when Renaissance and Anthony Pappa were also in the city.
 3. **Later:** Simon relocates to Iceland.
 4. **2014:** GusGus remix Pole Folder & Simon Latham’s *U.S.E.*; Pole Folder publicly attributes the connection to Simon’s friendship with GusGus.
