@@ -5,7 +5,7 @@ subtitle: UK Electronic Music Project, 1994–1999
 category: Artist
 year: 1994
 yearEnd: 1999
-tags: [Soundsation, UK, progressive-house, trance, Stress-Records, FFRR, SOS-Recordings, Simon-Latham, Pete-Lunn, Martyn-The-Hat]
+tags: [Soundsation, UK, progressive-house, trance, Stress-Records, FFRR, SOS-Recordings, Simon-Latham, Pete-Lunn, Martyn-The-Hat, Northern-Exposure, GusGus, Iceland]
 sortKey: 105
 createdAt: "2026-07-15T00:00:00.000Z"
 updatedAt: "2026-07-26T00:00:00.000+02:00"
@@ -99,6 +99,10 @@ On a subsequent broadcast (7 February 1997), Tong referenced the track's prior u
 
 This exchange is a document of how progressive house records spread — DJ to DJ before any official release, with exclusivity as part of the value.
 
+### Northern Exposure Context
+
+The link between Soundsation and *Northern Exposure* is documented in Digweed’s own introduction: he spoke about promoting the album in America and the UK, then named *Do You Feel It?* among his favourite records of 1996. The track was not on a *Northern Exposure* compilation; the significance is that Digweed placed both within the same account of his year.
+
 ## Sasha and Cream
 
 The record was also played by Sasha, including at his Cream, Liverpool residency set on 15 June 1996. Sasha playing a record at Cream in 1996 was as significant an endorsement as the scene had.
@@ -124,6 +128,14 @@ Soundsation's own independent imprint. Distributed via Amato (1994–1997) and M
 Simon Latham relocated to Iceland because of his Icelandic wife, **Sylvi** — also a vocalist, also active in the international trance scene. Sylvi featured on A State of Trance as the vocalist on Bris's *Speed Limits*, and had songs with Spark7, both of which received ASOT support. Simon also worked with Spark7 — *You Wanted More* — meaning both of them had independent connections to the same producers and shows. They settled in Iceland. He had visited Iceland before the permanent relocation, including being at the GusGus office in Reykjavik in 1997. Biggi from GusGus was already a long-term friend.
 
 Once settled, he founded Airport Route Recordings — the successor label to SOS Recordings, which he had run with Pete Lunn during the Soundsation years. The Icelandic music connections that followed came from being a resident: GusGus, Birgitta Haukdal, and giving early platform to Kid Mistik (Bjarki) and Johann Stone.
+
+### Artist Story — From Northern Exposure 2 to GusGus
+
+**Evidence status: Simon Latham’s firsthand chronology, except for the separately sourced 2014 remix account.**
+
+Simon recalls *Northern Exposure 2* as part of the chain that led to his 1997 meeting with GusGus in Reykjavík. Renaissance was also in Reykjavík with Anthony Pappa during that period. Simon later moved to Iceland, and in 2014 GusGus remixed Pole Folder & Simon Latham’s *U.S.E.* Pole Folder’s published *Human EP* interview states that Simon’s friendship with GusGus led to the remix.
+
+This creates a traceable career arc across progressive-house culture, Reykjavík and the later collaboration without claiming that *Northern Exposure* formally released or commissioned Soundsation.
 
 ## SOS Recordings and Pete Lunn
 
