@@ -7,7 +7,7 @@ year: 1996
 tags: [1996, blueprint, progressive-house, Renaissance, Sasha, Digweed, Northern-Exposure, Cream, Stress-Records, Pete-Tong, Radio-1]
 sortKey: 25
 createdAt: "2026-07-15T00:00:00.000Z"
-updatedAt: "2026-07-15T00:00:00.000Z"
+updatedAt: "2026-07-26T08:00:00.000+02:00"
 ---
 
 ## Not the Beginning — the Blueprint
@@ -18,7 +18,7 @@ This is the year that, looking back, tells you what progressive house actually w
 
 ## Renaissance: The Mix Collection Part 4
 
-The Renaissance compilation series was the definitive document of the progressive house era. Part 4 in 1996 captured the sound at its clearest — not the exploratory, still-forming music of the early 1990s, and not yet the melodic trance that would splinter the scene over the following two years. It is the record of the thing at its peak.
+`Renaissance: The Mix Collection` series was one of the era’s prominent progressive-house compilation programmes. Part 4 documents the established 1996 club sound before the genre’s boundaries shifted further toward trance and other late-1990s directions.
 
 ## Sasha at Cream
 
@@ -32,7 +32,7 @@ It was not a track from Northern Exposure. It was not something from the mainstr
 
 > "I think one of my favourite records of this year is a track by Soundsation and it's called Do You Feel It?. Hope you like it, have a good Christmas and a happy new year."
 
-The significance is in what he chose *not* to name. He was coming off the most commercially successful project of his career, having toured America, having placed progressive house in venues it had never been in before. And the record that meant most to him that year was one most of the Radio 1 audience had never heard.
+The significance is the contrast between the international *Northern Exposure* campaign and his selection of a still-limited-circulation record. Digweed described *Do You Feel It?* as **one of** his favourite records of the year; the archive does not treat that as a claim that it ranked above every track connected with the compilation.
 
 Pete Tong confirmed the underground status of the record on a subsequent broadcast:
 
@@ -42,9 +42,9 @@ That exchange — Digweed's exclusivity, Tong's acknowledgement of it — is a d
 
 ## Why 1996 Is the Blueprint
 
-The blueprint year is the year before things start to change. By 1997–98 the scene would be fragmenting — trance pulling one way, commercial pressure pulling another, the purity of the early sound becoming harder to maintain as the genre got bigger.
+The “blueprint year” is an interpretive framing supported by Decoded Magazine’s description of *Northern Exposure* as a blueprint for progressive house. By 1997–98, the scene’s boundaries were shifting as trance and other directions became more distinct.
 
-1996 is the year when all the values of progressive house — the journey, the underground circulation, the DJ as curator, the compilation as document — were operating at full strength and in alignment. It is the year the thing was most completely itself.
+1996 provides an especially clear view of progressive house’s period practices: journey-based programming, underground record circulation, DJ curation and the compilation as historical document. It is presented here as a useful analytical lens, not as the only valid peak year.
 
 
 ## Further reading
