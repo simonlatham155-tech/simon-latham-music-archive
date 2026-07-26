@@ -8,7 +8,7 @@ yearEnd: 1999
 tags: [Soundsation, UK, progressive-house, trance, Stress-Records, FFRR, SOS-Recordings, Simon-Latham, Pete-Lunn, Martyn-The-Hat, Northern-Exposure, GusGus, Iceland]
 sortKey: 105
 createdAt: "2026-07-15T00:00:00.000Z"
-updatedAt: "2026-07-26T00:00:00.000+02:00"
+updatedAt: "2026-07-26T08:00:00.000+02:00"
 ---
 
 ## What It Was
@@ -45,7 +45,7 @@ Simon moved from Salisbury to Bournemouth at this time. He had been Salisbury-ba
 
 Martyn — known as "The Hat" — was a local Bournemouth DJ, the DJ component of a project where Simon and Pete came from the listener's side of the floor.
 
-Warren Clarke was a producer involved in the early period. His sound was rooted in garage — UK garage, which was developing its own distinct character in the mid-1990s, pulling away from house and toward what would become 2-step. With the Soundsation sound moving toward progressive house and eventually trance, the direction was always going to be incompatible with where Warren's instincts were. He went off solo in 1995 to pursue his own path. A natural creative split rather than a falling out — two directions that couldn't coexist in the same project.
+Warren Clarke was a producer involved in the early period. His sound was rooted in garage — UK garage, which was developing its own distinct character in the mid-1990s, pulling away from house and toward what would become 2-step. Simon recalls a growing difference between Warren’s garage-rooted production interests and Soundsation’s movement toward progressive house and trance. Warren left in 1995 to pursue his own work; this account is presented as Simon’s interpretation of the creative split.
 
 The Lenny Kravitz sample origin explains the Peace & Joy pattern too. The early Soundsation records were built on samples — uncleared, pressed for club use, pulled when the commercial reality caught up. That was the method before the method had a name.
 
@@ -83,9 +83,9 @@ This workflow explains why an early DJ playlist, radio recording or white-label 
 
 Before signing to Stress, Soundsation had an offer from Jackpot Records — the label Blue Amazon were on. Jackpot was a credible progressive house home; the offer was real.
 
-Simon chose Stress because he knew James Wiltshire, who was the engineer there. The personal connection was the deciding factor. Everything that followed from the Stress Records period — the Digweed endorsement, the Renaissance compilation placement, the reach through the DJ network — came from that decision, and that decision came from a relationship.
+Simon chose Stress partly because he knew engineer James Wiltshire. That relationship influenced the label decision and helped connect the record with Stress, while the later Digweed support and Renaissance placement remain separate documented events.
 
-The Stress Records release of *Do You Feel It?* is the moment that placed Soundsation most firmly in the progressive house scene. Stress was Dave Seaman's label — co-founded with Steve Hillier, distributed through DMC — and one of the defining imprints of the era. Being on Stress meant being taken seriously by the people who mattered.
+The Stress Records release of *Do You Feel It?* gave Soundsation a documented position within the progressive-house label and DJ network. Stress was co-founded by Dave Seaman and Steve Hillier and distributed through DMC.
 
 ## John Digweed's Record of 1996
 
@@ -105,7 +105,7 @@ The link between Soundsation and *Northern Exposure* is documented in Digweed’
 
 ## Sasha and Cream
 
-The record was also played by Sasha, including at his Cream, Liverpool residency set on 15 June 1996. Sasha playing a record at Cream in 1996 was as significant an endorsement as the scene had.
+The record was also played by Sasha, including at his Cream, Liverpool residency set on 15 June 1996. This represents notable documented support within the 1996 progressive-house scene.
 
 ## The Compilation Placements
 
@@ -113,7 +113,7 @@ The record was also played by Sasha, including at his Cream, Liverpool residency
 - *Do You Feel It?* — Renaissance: The Mix Collection Part 4
 - *New Direction* — La Bush: Music From The Temple Of House Volume 7
 
-Renaissance Part 4 in particular is significant — the Renaissance compilation series was the definitive document of the progressive house era.
+*Renaissance: The Mix Collection Part 4* is a significant period placement within one of the era’s prominent progressive-house compilation series.
 
 ## The Trance Shift
 

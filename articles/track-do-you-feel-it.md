@@ -7,7 +7,7 @@ year: 1996
 tags: [Soundsation, Stress-Records, John-Digweed, Pete-Tong, Sasha, Cream, Renaissance, Northern-Exposure, progressive-house, Radio-1]
 sortKey: 402
 createdAt: "2026-07-15T00:00:00.000Z"
-updatedAt: "2026-07-26T00:00:00.000+02:00"
+updatedAt: "2026-07-26T08:00:00.000+02:00"
 ---
 
 ## Release
@@ -57,13 +57,13 @@ This does **not** mean that *Do You Feel It?* appeared on a *Northern Exposure* 
 
 ## Sasha at Cream
 
-Sasha played *Do You Feel It?* at his Cream, Liverpool residency on 15 June 1996. A Sasha play at Cream in 1996 was among the most significant endorsements the progressive house scene could offer.
+Sasha played *Do You Feel It?* at his Cream, Liverpool residency on 15 June 1996. This is notable documented support within the progressive-house scene of the period.
 
 ## The Banned Pressing — The Real Rare Copy
 
 Before the SOS003 pressing, there was an earlier version: *Do You Feel It* with an uncleared **Colonel Abrams** vocal on the B-side — *You're the One for Me*. This pressing was limited to approximately **1,000 copies** before it was banned due to the uncleared vocal.
 
-This is the version Sasha, Digweed, and the DJs in their network had. The ban meant it never circulated beyond those initial 1,000 copies — which is precisely what made it the record that Digweed was "the only one that had." Pete Tong confirmed this on his 7 February 1997 Essential Selection: "mainly because he was the only one that had it, but we can all have it now."
+The early pressing is associated with the track’s pre-release DJ circulation, but surviving playlist evidence does not identify the exact pressing used in every set. Pete Tong’s 7 February 1997 comment — “mainly because he was the only one that had it, but we can all have it now” — confirms the track’s limited availability without proving which physical version Digweed held.
 
 The banned Colonel Abrams pressing follows exactly the same pattern as *Peace & Joy* — an early pressing with an uncleared sample that gave the record its underground life before legal intervention stopped it. In both cases the sample or vocal was removed for subsequent commercial releases; in both cases the version the DJs wanted was the one that couldn't legally exist at scale.
 
@@ -81,19 +81,19 @@ Before signing to Stress, Soundsation had an offer from Jackpot Records — the 
 
 Simon knew Stress were interested in the record. The label deal was done through James Wiltshire — the engineer Simon had known since 1990, when Wiltshire produced two tracks for Something Wild. Wiltshire was the route to closing what Stress already wanted. The Jackpot offer was the alternative; the Wiltshire connection made Stress the choice.
 
-This is a detail that shaped everything that followed: the Digweed endorsement, the Renaissance compilation placement, the record's reach through the DJ network. It came from a personal connection at the point of signing.
+The Wiltshire relationship influenced the choice of Stress. The later Digweed endorsement, Renaissance placement and wider DJ circulation are documented separately rather than attributed to a single cause.
 
 ## The Stress Records Context
 
-Stress Records was co-founded by Dave Seaman and Steve Hillier. Being placed on Stress in 1996 — distributed through DMC — meant being taken seriously by the inner circle of the UK progressive house scene. The label's catalogue from this period is a map of the sound at its mid-period peak.
+Stress Records was co-founded by Dave Seaman and Steve Hillier. Stress and its DMC distribution placed the release within an established UK progressive-house label and distribution network.
 
 ## The Renaissance Compilation — Seaman Called First
 
 Dave Seaman selected *Do You Feel It?* for *Renaissance — The Mix Collection Part 4* himself, then called Soundsation about it. This happened **before** the Stress Records deal was signed.
 
-The sequence matters. Seaman didn't pick up the track because it was on his label — he found the rare pressing, decided it belonged on the definitive progressive house compilation of the era, and made contact. That call from Seaman was part of what established Stress Records' interest. The Renaissance placement preceded the label deal and helped create the conditions for it.
+The sequence matters. Seaman didn't pick up the track because it was on his label — he encountered the pre-release record, selected it for a prominent progressive-house compilation, and made contact. That call from Seaman was part of what established Stress Records' interest. The Renaissance placement preceded the label deal and helped create the conditions for it.
 
-The Renaissance Mix Collection series was the most prestigious progressive house release format of the era. Seaman selecting a track before signing the act that made it is the clearest possible evidence of how the progressive house network operated: the record reached the right person through the DJ circuit, and the person with the power to act on it did.
+The Renaissance Mix Collection series was one of the era’s prominent progressive-house compilation programmes. Seaman’s selection before the Stress deal provides a documented example of a record reaching a compiler through the DJ circuit before wider commercial release.
 
 ## Dave Seaman at the Opera House — Watching from the Balcony
 
@@ -109,7 +109,7 @@ Bournemouth was the town where Simon Latham and Pete Lunn had spent their weeken
 
 Simon's first assumption was that his friend had got it wrong.
 
-Given that Sasha was playing the record at Cream in Liverpool and the track had been circulating through the DJ network as a rare pressing before any wide release, his friend almost certainly had it right. Sasha playing *Do You Feel It?* at the Opera House in Bournemouth — the same circuit of clubs where Simon had gone every weekend as a clubber — is both entirely consistent with the record's reach at that point and, as a fact, something Simon only half-believed when told.
+Because Sasha was independently documented playing the record at Cream, the friend’s report is plausible, but the Bournemouth performance remains unverified. Sasha playing *Do You Feel It?* at the Opera House in Bournemouth — the same circuit of clubs where Simon had gone every weekend as a clubber — is both entirely consistent with the record's reach at that point and, as a fact, something Simon only half-believed when told.
 
 This is what underground circulation meant in practice. A record moving through the DJ network could reach your own home town, your own venue, and you might not know about it until someone told you — and your first instinct might be to doubt them.
 
@@ -139,7 +139,7 @@ The 2008 Airport Route reissue also topped the charts on progressivehouse.com at
 
 | Release | Label | Cat No | Year | Notes |
 |---|---|---|---|---|
-| **Banned pressing** | SOS Recordings | — | 1996 | Colonel Abrams vocal B-side (*You're the One for Me*); ~1,000 copies; withdrawn. The version Sasha, Digweed and network DJs had. |
+| **Withdrawn early pressing** | SOS Recordings | — | 1996 | Colonel Abrams vocal B-side (*You're the One for Me*); approximately 1,000 copies according to artist/label history. |
 | Underground pressing | SOS Recordings | 12SOS003 | 1996 | Original Mix / Lunn & Latham Mix — post-ban circulation |
 | Promo | Stress Records | 12STR 88P | 1996 | Original Mix / Dos Deviants Principle Vocal Mix |
 | Commercial release | Stress Records | 12STR 88 | 1998 | Chris & James Solar Power Remix / Original Mix / Big C Remix |

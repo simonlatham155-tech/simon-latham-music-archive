@@ -78,7 +78,7 @@ This is the year that, looking back, tells you what progressive house actually w
 
 ## Renaissance: The Mix Collection Part 4
 
-The Renaissance compilation series was the definitive document of the progressive house era. Part 4 in 1996 captured the sound at its clearest — not the exploratory, still-forming music of the early 1990s, and not yet the melodic trance that would splinter the scene over the following two years. It is the record of the thing at its peak.
+`Renaissance: The Mix Collection` series was one of the era’s prominent progressive-house compilation programmes. Part 4 documents the established 1996 club sound before the genre’s boundaries shifted further toward trance and other late-1990s directions.
 
 ## Sasha at Cream
 
@@ -86,13 +86,13 @@ Sasha's residency at Cream in Liverpool in 1996 was one of the central events of
 
 ## The Digweed Moment
 
-On Pete Tong's BBC Radio 1 Essential Selection Best of 1996 (27 December 1996), John Digweed was asked about his year. He mentioned touring around America while promoting the Northern Exposure compilation — a record that had defined progressive house internationally, that had taken Sasha and Digweed into American clubs and given the genre a global profile. And then he named his favourite record of the year.
+On Pete Tong's BBC Radio 1 Essential Selection Best of 1996 (27 December 1996), John Digweed was asked about his year. He mentioned touring America with Northern Exposure — a record that had defined progressive house internationally, that had taken Sasha and Digweed into American clubs and given the genre a global profile. And then he named his favourite record of the year.
 
 It was not a track from Northern Exposure. It was not something from the mainstream of the scene. It was *Do You Feel It?* by Soundsation — a Stress Records release, an underground progressive house record, something that had reached him through the DJ network before any wide commercial release.
 
 > "I think one of my favourite records of this year is a track by Soundsation and it's called Do You Feel It?. Hope you like it, have a good Christmas and a happy new year."
 
-The significance is in what he chose *not* to name. He was coming off the most commercially successful project of his career, having toured America, having placed progressive house in venues it had never been in before. And the record that meant most to him that year was one most of the Radio 1 audience had never heard.
+The significance is the contrast between the international *Northern Exposure* campaign and his selection of a still-limited-circulation record. Digweed described *Do You Feel It?* as **one of** his favourite records of the year; the archive does not treat that as a claim that it ranked above every track connected with the compilation.
 
 Pete Tong confirmed the underground status of the record on a subsequent broadcast:
 
@@ -102,9 +102,9 @@ That exchange — Digweed's exclusivity, Tong's acknowledgement of it — is a d
 
 ## Why 1996 Is the Blueprint
 
-The blueprint year is the year before things start to change. By 1997–98 the scene would be fragmenting — trance pulling one way, commercial pressure pulling another, the purity of the early sound becoming harder to maintain as the genre got bigger.
+The “blueprint year” is an interpretive framing supported by Decoded Magazine’s description of *Northern Exposure* as a blueprint for progressive house. By 1997–98, the scene’s boundaries were shifting as trance and other directions became more distinct.
 
-1996 is the year when all the values of progressive house — the journey, the underground circulation, the DJ as curator, the compilation as document — were operating at full strength and in alignment. It is the year the thing was most completely itself.
+1996 provides an especially clear view of progressive house’s period practices: journey-based programming, underground record circulation, DJ curation and the compilation as historical document. It is presented here as a useful analytical lens, not as the only valid peak year.
 
 
 ## Further reading
@@ -785,7 +785,7 @@ Simon moved from Salisbury to Bournemouth at this time. He had been Salisbury-ba
 
 Martyn — known as "The Hat" — was a local Bournemouth DJ, the DJ component of a project where Simon and Pete came from the listener's side of the floor.
 
-Warren Clarke was a producer involved in the early period. His sound was rooted in garage — UK garage, which was developing its own distinct character in the mid-1990s, pulling away from house and toward what would become 2-step. With the Soundsation sound moving toward progressive house and eventually trance, the direction was always going to be incompatible with where Warren's instincts were. He went off solo in 1995 to pursue his own path. A natural creative split rather than a falling out — two directions that couldn't coexist in the same project.
+Warren Clarke was a producer involved in the early period. His sound was rooted in garage — UK garage, which was developing its own distinct character in the mid-1990s, pulling away from house and toward what would become 2-step. Simon recalls a growing difference between Warren’s garage-rooted production interests and Soundsation’s movement toward progressive house and trance. Warren left in 1995 to pursue his own work; this account is presented as Simon’s interpretation of the creative split.
 
 The Lenny Kravitz sample origin explains the Peace & Joy pattern too. The early Soundsation records were built on samples — uncleared, pressed for club use, pulled when the commercial reality caught up. That was the method before the method had a name.
 
@@ -823,9 +823,9 @@ This workflow explains why an early DJ playlist, radio recording or white-label 
 
 Before signing to Stress, Soundsation had an offer from Jackpot Records — the label Blue Amazon were on. Jackpot was a credible progressive house home; the offer was real.
 
-Simon chose Stress because he knew James Wiltshire, who was the engineer there. The personal connection was the deciding factor. Everything that followed from the Stress Records period — the Digweed endorsement, the Renaissance compilation placement, the reach through the DJ network — came from that decision, and that decision came from a relationship.
+Simon chose Stress partly because he knew engineer James Wiltshire. That relationship influenced the label decision and helped connect the record with Stress, while the later Digweed support and Renaissance placement remain separate documented events.
 
-The Stress Records release of *Do You Feel It?* is the moment that placed Soundsation most firmly in the progressive house scene. Stress was Dave Seaman's label — co-founded with Steve Hillier, distributed through DMC — and one of the defining imprints of the era. Being on Stress meant being taken seriously by the people who mattered.
+The Stress Records release of *Do You Feel It?* gave Soundsation a documented position within the progressive-house label and DJ network. Stress was co-founded by Dave Seaman and Steve Hillier and distributed through DMC.
 
 ## John Digweed's Record of 1996
 
@@ -845,7 +845,7 @@ The link between Soundsation and *Northern Exposure* is documented in Digweed’
 
 ## Sasha and Cream
 
-The record was also played by Sasha, including at his Cream, Liverpool residency set on 15 June 1996. Sasha playing a record at Cream in 1996 was as significant an endorsement as the scene had.
+The record was also played by Sasha, including at his Cream, Liverpool residency set on 15 June 1996. This represents notable documented support within the 1996 progressive-house scene.
 
 ## The Compilation Placements
 
@@ -853,7 +853,7 @@ The record was also played by Sasha, including at his Cream, Liverpool residency
 - *Do You Feel It?* — Renaissance: The Mix Collection Part 4
 - *New Direction* — La Bush: Music From The Temple Of House Volume 7
 
-Renaissance Part 4 in particular is significant — the Renaissance compilation series was the definitive document of the progressive house era.
+*Renaissance: The Mix Collection Part 4* is a significant period placement within one of the era’s prominent progressive-house compilation series.
 
 ## The Trance Shift
 
@@ -1432,13 +1432,13 @@ This does **not** mean that *Do You Feel It?* appeared on a *Northern Exposure* 
 
 ## Sasha at Cream
 
-Sasha played *Do You Feel It?* at his Cream, Liverpool residency on 15 June 1996. A Sasha play at Cream in 1996 was among the most significant endorsements the progressive house scene could offer.
+Sasha played *Do You Feel It?* at his Cream, Liverpool residency on 15 June 1996. This is notable documented support within the progressive-house scene of the period.
 
 ## The Banned Pressing — The Real Rare Copy
 
 Before the SOS003 pressing, there was an earlier version: *Do You Feel It* with an uncleared **Colonel Abrams** vocal on the B-side — *You're the One for Me*. This pressing was limited to approximately **1,000 copies** before it was banned due to the uncleared vocal.
 
-This is the version Sasha, Digweed, and the DJs in their network had. The ban meant it never circulated beyond those initial 1,000 copies — which is precisely what made it the record that Digweed was "the only one that had." Pete Tong confirmed this on his 7 February 1997 Essential Selection: "mainly because he was the only one that had it, but we can all have it now."
+The early pressing is associated with the track’s pre-release DJ circulation, but surviving playlist evidence does not identify the exact pressing used in every set. Pete Tong’s 7 February 1997 comment — “mainly because he was the only one that had it, but we can all have it now” — confirms the track’s limited availability without proving which physical version Digweed held.
 
 The banned Colonel Abrams pressing follows exactly the same pattern as *Peace & Joy* — an early pressing with an uncleared sample that gave the record its underground life before legal intervention stopped it. In both cases the sample or vocal was removed for subsequent commercial releases; in both cases the version the DJs wanted was the one that couldn't legally exist at scale.
 
@@ -1456,19 +1456,19 @@ Before signing to Stress, Soundsation had an offer from Jackpot Records — the 
 
 Simon knew Stress were interested in the record. The label deal was done through James Wiltshire — the engineer Simon had known since 1990, when Wiltshire produced two tracks for Something Wild. Wiltshire was the route to closing what Stress already wanted. The Jackpot offer was the alternative; the Wiltshire connection made Stress the choice.
 
-This is a detail that shaped everything that followed: the Digweed endorsement, the Renaissance compilation placement, the record's reach through the DJ network. It came from a personal connection at the point of signing.
+The Wiltshire relationship influenced the choice of Stress. The later Digweed endorsement, Renaissance placement and wider DJ circulation are documented separately rather than attributed to a single cause.
 
 ## The Stress Records Context
 
-Stress Records was co-founded by Dave Seaman and Steve Hillier. Being placed on Stress in 1996 — distributed through DMC — meant being taken seriously by the inner circle of the UK progressive house scene. The label's catalogue from this period is a map of the sound at its mid-period peak.
+Stress Records was co-founded by Dave Seaman and Steve Hillier. Stress and its DMC distribution placed the release within an established UK progressive-house label and distribution network.
 
 ## The Renaissance Compilation — Seaman Called First
 
 Dave Seaman selected *Do You Feel It?* for *Renaissance — The Mix Collection Part 4* himself, then called Soundsation about it. This happened **before** the Stress Records deal was signed.
 
-The sequence matters. Seaman didn't pick up the track because it was on his label — he found the rare pressing, decided it belonged on the definitive progressive house compilation of the era, and made contact. That call from Seaman was part of what established Stress Records' interest. The Renaissance placement preceded the label deal and helped create the conditions for it.
+The sequence matters. Seaman didn't pick up the track because it was on his label — he encountered the pre-release record, selected it for a prominent progressive-house compilation, and made contact. That call from Seaman was part of what established Stress Records' interest. The Renaissance placement preceded the label deal and helped create the conditions for it.
 
-The Renaissance Mix Collection series was the most prestigious progressive house release format of the era. Seaman selecting a track before signing the act that made it is the clearest possible evidence of how the progressive house network operated: the record reached the right person through the DJ circuit, and the person with the power to act on it did.
+The Renaissance Mix Collection series was one of the era’s prominent progressive-house compilation programmes. Seaman’s selection before the Stress deal provides a documented example of a record reaching a compiler through the DJ circuit before wider commercial release.
 
 ## Dave Seaman at the Opera House — Watching from the Balcony
 
@@ -1484,7 +1484,7 @@ Bournemouth was the town where Simon Latham and Pete Lunn had spent their weeken
 
 Simon's first assumption was that his friend had got it wrong.
 
-Given that Sasha was playing the record at Cream in Liverpool and the track had been circulating through the DJ network as a rare pressing before any wide release, his friend almost certainly had it right. Sasha playing *Do You Feel It?* at the Opera House in Bournemouth — the same circuit of clubs where Simon had gone every weekend as a clubber — is both entirely consistent with the record's reach at that point and, as a fact, something Simon only half-believed when told.
+Because Sasha was independently documented playing the record at Cream, the friend’s report is plausible, but the Bournemouth performance remains unverified. Sasha playing *Do You Feel It?* at the Opera House in Bournemouth — the same circuit of clubs where Simon had gone every weekend as a clubber — is both entirely consistent with the record's reach at that point and, as a fact, something Simon only half-believed when told.
 
 This is what underground circulation meant in practice. A record moving through the DJ network could reach your own home town, your own venue, and you might not know about it until someone told you — and your first instinct might be to doubt them.
 
@@ -1514,7 +1514,7 @@ The 2008 Airport Route reissue also topped the charts on progressivehouse.com at
 
 | Release | Label | Cat No | Year | Notes |
 |---|---|---|---|---|
-| **Banned pressing** | SOS Recordings | — | 1996 | Colonel Abrams vocal B-side (*You're the One for Me*); ~1,000 copies; withdrawn. The version Sasha, Digweed and network DJs had. |
+| **Withdrawn early pressing** | SOS Recordings | — | 1996 | Colonel Abrams vocal B-side (*You're the One for Me*); approximately 1,000 copies according to artist/label history. |
 | Underground pressing | SOS Recordings | 12SOS003 | 1996 | Original Mix / Lunn & Latham Mix — post-ban circulation |
 | Promo | Stress Records | 12STR 88P | 1996 | Original Mix / Dos Deviants Principle Vocal Mix |
 | Commercial release | Stress Records | 12STR 88 | 1998 | Chris & James Solar Power Remix / Original Mix / Big C Remix |
