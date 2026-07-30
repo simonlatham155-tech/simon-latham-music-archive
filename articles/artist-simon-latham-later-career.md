@@ -7,7 +7,7 @@ year: 2000
 tags: [Simon-Latham, Iceland, Airport-Route-Recordings, A-State-of-Trance, Armada, DJ-Eco, Pole-Folder, GusGus, Hernán-Cattáneo, Lethal-Weapon, Trance-Atlantic, vocal-trance]
 sortKey: 106
 createdAt: "2026-07-15T00:00:00.000Z"
-updatedAt: "2026-07-15T00:00:00.000Z"
+updatedAt: "2026-07-31T00:00:00.000+02:00"
 ---
 
 ## The Post-Soundsation Arc
@@ -26,6 +26,30 @@ Contemporary reviews of Simon's vocal work describe consistent qualities across 
 - "British born now Icelandic singer song-writer" — the identity as presented to the international trance market
 
 The Marc Almond comparison is specific: a voice associated with British electro-pop and emotional directness, carrying into progressive trance contexts. The "indie rock" quality distinguishes Simon's vocal approach from conventional trance vocalists of the period.
+
+## Selected Editorial Recognition
+
+The surviving specialist coverage provides a concise bridge between Simon's progressive-house background and his later work as an international vocalist:
+
+- An archived **Progressivehouse.com reviewer profile** documents Simon contributing to the specialist progressive-house publication by 2008: [Simon Latham reviewer archive](https://web.archive.org/web/20080327061334/http://www.progressivehouse.com/reviews/reviewers/Simon%20Latham).
+- Readers of **Beatsmedia UK** placed Simon at **#38** in its *Top 50 Vocalists of 2012* poll. The site subsequently connected the poll with Armada Music's *Best Vocalists 2012* compilation: [archived poll results](https://web.archive.org/web/20120817233352/http://beatsmedia.com/featured-2/results-announced-top-50-vocalists-of-2012-by-beatsmedia-uk/).
+- A substantial **2013 Beatsmedia interview** covered the Soundsation years, Simon's songwriting and vocal role, *ibreathe*, Airport Route Recordings and the Vocalist Songwriter Alliance. Statements in the interview are Simon's published first-person account: [archived interview](https://web.archive.org/web/20140515024757/http://beatsmedia.com/simon-latham-interview/).
+- Beatsmedia later gave dedicated editorial coverage to **Ari Kyle & Audioscape feat. Simon Latham — *Afterlife***: [archived 2015 article](https://web.archive.org/web/20151210223620/http://beatsmedia.com/ari-kyle-audioscape-feat-simon-latham-afterlife-original-mix/).
+
+## Selected Documented Chart Milestones
+
+This table records a small number of representative results rather than attempting to reproduce every chart screenshot. Positions are described as observed positions unless a surviving source explicitly establishes a peak.
+
+| Year | Release | Documented result | Evidence |
+|---|---|---|---|
+| 2012 | Aeron Aether & Retroid feat. Simon Latham — *The Story Goes* | Beatport Chill Out chart: observed at #98, #77 and #53 | Contemporary Beatport chart screenshots and dated Facebook posts |
+| 2013 | Simon Latham — *iBreathe Again* | Deejayworx Top 100: observed at #89 and #47; Simon's contemporary follow-up states that it peaked at #37 | Contemporary Deejayworx screenshots and Facebook posts |
+| 2014 | Simon Latham & Colonial One — *Freedom* | Beatport trance releases: observed at #19 | Contemporary Beatport chart screenshot dated 4 May 2014 |
+| 2014 | Pole Folder & Simon Latham — *U.S.E.* (GusGus vs T-World Remix) | ReleasePromo Tech House chart: #5 on 25 July and #1 on 31 July; full ReleasePromo chart: #10 | Dated ReleasePromo screenshots |
+| 2014 | Smart Wave — *Serotonin (Simon Latham Remix)* | Beatport progressive-house releases: observed at #37 | Contemporary Beatport chart screenshot dated 8 July 2014 |
+| 2015 | Simon Latham — *Inside The Mind Of A Man* | iTunes Dance New Releases: observed at #29 | Contemporary iTunes chart screenshot |
+
+These results document visibility on specialist retail and DJ-promotion platforms. They are not presented as national record-chart positions.
 
 ## The ibreathe Album — Beatport Description
 
